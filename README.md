@@ -15,7 +15,7 @@ https://github.com/AllOfFabric/AOF-2/releases/download/0.1.0/AOF.2.v0.1.0.Server
 
 
 **Changelogs & releases:**\	
-https://github.com/AK9Official/All-of-Fabric/releases 	
+https://github.com/AllOfFabric/AOF-2/releases	
 
 
 **HOW TO INSTALL MODPACK**	
