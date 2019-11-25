@@ -5,13 +5,13 @@
 **Where can you find me?**\	
 *All of Fabric Discord Server: https://discord.gg/6rkdm48*	
 
-**Latest Release:**\	
-*MultiMC:*	
-
-**()**\	
-*Server:*	
- \	
-**()**	
+**Latest Release:**\
+*MultiMC:*
+https://github.com/AllOfFabric/AOF-2/releases/download/0.1.0/AOF.2.v0.1.0.zip \
+**(0.1.0)**\
+*Server:*
+https://github.com/AllOfFabric/AOF-2/releases/download/0.1.0/AOF.2.v0.1.0.Server.rar \
+**(0.1.0)**
 
 
 **Changelogs & releases:**\	
