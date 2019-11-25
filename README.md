@@ -8,10 +8,10 @@
 **Latest Release:**\
 *MultiMC:*
 https://github.com/AllOfFabric/AOF-2/releases/download/0.1.0/AOF.2.v0.1.0.zip \
-**(0.1.0)**\
+**(v0.1.0)**\
 *Server:*
 https://github.com/AllOfFabric/AOF-2/releases/download/0.1.0/AOF.2.v0.1.0.Server.rar \
-**(0.1.0)**
+**(v0.1.0)**
 
 
 **Changelogs & releases:**\	
