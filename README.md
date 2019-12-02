@@ -7,11 +7,11 @@
 
 **Latest Release:**\
 *MultiMC:*
-https://github.com/AllOfFabric/AOF-2/releases/download/0.1.0/AOF.2.v0.1.0.zip \
-**(v0.1.0)**\
+https://github.com/AllOfFabric/AOF-2/releases/download/0.2.0/AOF.2.v0.2.0.zip \
+**(v0.2.0)**\
 *Server:*
-https://github.com/AllOfFabric/AOF-2/releases/download/0.1.0/AOF.2.v0.1.0.Server.rar \
-**(v0.1.0)**
+https://github.com/AllOfFabric/AOF-2/releases/download/0.2.0/AOF.2.Server.v0.2.0.rar \
+**(v0.2.0)**
 
 
 **Changelogs & releases:**\	
@@ -28,8 +28,8 @@ https://github.com/AllOfFabric/AOF-2/releases
 **HOW TO INSTALL SERVER**	
 1. Download the All of Fabric Server files above.	
 2. Extract the files to a new folder.	
-3. Run the Start-Server.bat & accept EULA.	
-4. Start again & play.	
+3. Run Install Mods.bat & wait for it too finish properly!
+4. Run Start.cmd
 
 
 **Loader** \
