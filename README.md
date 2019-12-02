@@ -22,8 +22,9 @@ https://github.com/AllOfFabric/AOF-2/releases
 1. Download MultiMC at https://multimc.org/	
 2. Log into your Mojang account.	
 3. Import the Zip provided above or copy the URL and paste it into MultiMC.	
-4. Play & have fun!\	
-**Video Tutorial by SuntannedDuck:** https://www.youtube.com/watch?v=M633Qm86tqk	
+4. Play & have fun! \
+**Video Tutorial by SuntannedDuck:**
+https://www.youtube.com/watch?v=M633Qm86tqk	
 
 **HOW TO INSTALL SERVER**	
 1. Download the All of Fabric Server files above.	
