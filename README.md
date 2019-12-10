@@ -7,7 +7,7 @@
 
 **Latest Release:** \
 *MultiMC:*
-https://github.com/AllOfFabric/AOF-2/releases/download/0.2.0/AOF.2.v0.3.0.zip \
+https://github.com/AllOfFabric/AOF-2/releases/download/0.3.0/AOF.2.v0.3.0.zip \
 **(v0.3.0)**\
 *Server:*
 https://github.com/AllOfFabric/AOF-2/releases/download/0.2.0/AOF.2.Server.v0.2.0.rar \
