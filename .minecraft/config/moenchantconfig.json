@@ -1,0 +1,57 @@
+{
+  "EnableAutoSmelt": true,
+  "EnableEnderProtection": true,
+  "EnablePotionRetention": true,
+  "EnableTamedProtection": true,
+  "EnableTreeFeller": true,
+  "EnableVeinMiner": true,
+  "EnableSoulBound": true,
+  "UseStandardSoulboundMechanics": false,
+  "VeinMinerMaxBreakByLvl": [
+    7,
+    14,
+    28
+  ],
+  "TreeFellerMaxBreakByLvl": [
+    14,
+    28,
+    56
+  ],
+  "MaxDistanceFromPlayer": 8,
+  "ProtectItemFromBreaking": true,
+  "AutoSmeltWoodModifier": 0.15,
+  "TameProtectsOnlyYourAnimals": true,
+  "MaxSoulBoundLevel": 10,
+  "chanceForEnderCurseToTeleport": 40,
+  "chanceForEnderCurseToPreventDamage": 20,
+  "perLevelChargeMultiplierForPotionRetention": 5,
+  "PotionRetentionMaxLevel": 10,
+  "veinMinerBlockWhiteList": [
+    "minecraft:iron_ore",
+    "minecraft:gold_ore",
+    "minecraft:coal_ore",
+    "minecraft:lapis_ore",
+    "minecraft:diamond_ore",
+    "minecraft:redstone_ore",
+    "minecraft:emerald_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:obsidian",
+    "netherthings:nether_coal_ore",
+    "netherthings:nether_iron_ore",
+    "netherthings:nether_gold_ore",
+    "netherthings:nether_redstone_ore",
+    "netherthings:nether_lapis_ore",
+    "netherthings:nether_emerald_ore",
+    "netherthings:glowstone_ore",
+    "netherthings:quartz_ore",
+    "netherthings:nether_vibranium_ore",
+    "refinedmachinery:copper_ore",
+    "refinedmachinery:lead_ore",
+    "refinedmachinery:silver_ore",
+    "refinedmachinery:tin_ore",
+    "refinedmachinery:nickel_ore"
+  ],
+  "AutoSmeltBlackList": [
+    "minecraft:stone"
+  ]
+}

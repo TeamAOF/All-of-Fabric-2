@@ -3,11 +3,11 @@
     "+tweakers": [],
     "+libraries": [
         {
-            "name": "net.fabricmc:fabric-loader:0.7.1+build.173",
+            "name": "net.fabricmc:fabric-loader:0.7.2+build.174",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:yarn:1.15-pre1+build.6",
+            "name": "net.fabricmc:yarn:1.15-pre7+build.1",
             "url": "https://maven.fabricmc.net/"
         },
         {
@@ -53,6 +53,6 @@
     ],
     "name": "FabricLoader",
     "uid": "net.fabricmc",
-    "version": "1.15-pre1+build.6_yarn-0.7.1+build.173",
+    "version": "1.15-pre7+build.1_yarn-0.7.2+build.174",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient"
 }

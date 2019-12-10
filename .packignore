@@ -1,3 +1,16 @@
 .git
 .gitignore
+.minecraft/.fabric
+.minecraft/.mixin.out
+.minecraft/crash-reports
+.minecraft/logs
+.minecraft/mods.backup
+.minecraft/options.txt
+.minecraft/resourcepacks
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/servers.dat
+.minecraft/texturepacks
+.minecraft/usercache.json
 README.md

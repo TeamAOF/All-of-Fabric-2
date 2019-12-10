@@ -16,3 +16,7 @@
 .minecraft/.fabric/
 
 .minecraft/icon.png
+
+.minecraft/screenshots/
+
+.minecraft/mods.backup/

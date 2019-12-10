@@ -17,14 +17,14 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.15-pre1",
+            "cachedVersion": "1.15-pre7",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.15-pre1"
+            "version": "1.15-pre7"
         },
         {
             "cachedName": "FabricLoader",
-            "cachedVersion": "1.15-pre1+build.6_yarn-0.7.1+build.173",
+            "cachedVersion": "1.15-pre7+build.1_yarn-0.7.2+build.174",
             "uid": "net.fabricmc"
         }
     ],
