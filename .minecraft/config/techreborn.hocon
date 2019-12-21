@@ -370,6 +370,8 @@ solarPanelUltimate {
 }
 "solid_canning_machine" {
     # Solid Canning Machine Max Energy (Value in EU)
+    solidCanningMachineMaxEnergy=null
+    # Solid Canning Machine Max Input (Value in EU)
     solidCanningMachineMaxInput=null
 }
 "thermal_generator" {

@@ -1,0 +1,38 @@
+{
+	"weather": {
+		// Amount the thunder time is divided by. Set to 1 to disable
+		"thunder_modifier": 80,
+		// Make it so there are less clear skies, more rain and thunder
+		"less_clear_skies": true
+	},
+	"pumpkins_on_mobs": {
+		// Zombies, Skeletons, and Wither Skeletons have a 1/3 chance of spawning with a pumpkin on their head
+		"pumpkin_head": true,
+		// Endermen have a 1/3 chance of spawning holding a pumpkin
+		"endermen_hold": true
+	},
+	"tiny_pumpkin": {
+		// Lets the Tiny Pumpkin be waterlogged
+		"waterloggable": true
+	},
+	"trick_or_treating": {
+		// Enables a chance for trick or treating to result in the villagers becoming witches
+		"enable_tricks": true,
+		// Tricks, if enabled, will have a one in (this number) chance of happening
+		"trick_chance": 100
+	},
+	"trumpet_skeleton": {
+		// If enabled, Skeletons can sometimes spawn with Trumpets
+		"enabled": true,
+		// Skeletons will have a one in (this number) chance of spawning with a trumpet
+		"chance": 50
+	},
+	"fog": {
+		// Determines the radius in which biomes are checked to smooth out biome fog colors. Lower values = less intensive.
+		"fogSmoothingRadius": 8
+	},
+	"tweaks": {
+		// If true, allows placing pumpkin pie blocks using the vanilla pumpkin pie item
+		"pumpkin_pie_block": true
+	}
+}

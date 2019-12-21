@@ -1,0 +1,4 @@
+{
+	// BlockID to be considered the same block when excavating
+	"groups": []
+}

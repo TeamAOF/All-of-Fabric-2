@@ -61,7 +61,7 @@
 			"height": 20,
 			"text": "Changelogs",
 			"type": "url",
-			"parameter": "https://www.google.com",
+			"parameter": "https://github.com/AllOfFabric/AOF-2/releases",
 			// Not currently implemented
 			"textureName": ""
 		},

@@ -1,0 +1,100 @@
+{
+  "power": {
+    "advancedDrillCharge": {
+      "comment": "Energy Capacity for Advanced Drill (FE)",
+      "value": 400000
+    },
+    "basicJackhammerCharge": {
+      "comment": "Energy Capacity for Basic Jackhammer (FE)",
+      "value": 40000
+    },
+    "cloakingDeviceCharge": {
+      "comment": "Energy Capacity for Clocking Device (FE)",
+      "value": 40000000
+    },
+    "LithiumBatpackCharge": {
+      "comment": "Energy Capacity for Lithium Batpack (FE)",
+      "value": 8000000
+    },
+    "lapotronicOrbMaxCharge": {
+      "comment": "Energy Capacity for Lapotronic Orb (FE)",
+      "value": 400000000
+    },
+    "advancedChainsawCharge": {
+      "comment": "Energy Capacity for Advanced Chainsaw (FE)",
+      "value": 400000
+    },
+    "lapotronPackCharge": {
+      "comment": "Energy Capacity for Lapotron Pack (FE)",
+      "value": 400000000
+    },
+    "basicDrillCharge": {
+      "comment": "Energy Capacity for Basic Drill (FE)",
+      "value": 40000
+    },
+    "industrialJackhammerCharge": {
+      "comment": "Energy Capacity for Industrial Jachammer (FE)",
+      "value": 4000000
+    },
+    "nanoSaberCharge": {
+      "comment": "Energy Capacity for Nano Saber (FE)",
+      "value": 4000000
+    },
+    "advancedJackhammerCharge": {
+      "comment": "Energy Capacity for Advanced Jackhammer (FE)",
+      "value": 400000
+    },
+    "clockingDeviceEnergyUsage": {
+      "comment": "Cloacking device energy usesage (FE)",
+      "value": 10
+    },
+    "basicChainsawCharge": {
+      "comment": "Energy Capacity for Basic Chainsaw (FE)",
+      "value": 40000
+    },
+    "industrialChainsawCharge": {
+      "comment": "Energy Capacity for Industrial Chainsaw (FE)",
+      "value": 4000000
+    },
+    "lapotronCrystalMaxCharge": {
+      "comment": "Energy Capacity for Lapotron Crystal (FE)",
+      "value": 40000000
+    },
+    "rockCutterCharge": {
+      "comment": "Energy Capacity for Rock Cutter (FE)",
+      "value": 400000
+    },
+    "energyCrystalMaxCharge": {
+      "comment": "Energy Capacity for Energy Crystal (FE)",
+      "value": 4000000
+    },
+    "omniToolCharge": {
+      "comment": "Energy Capacity for Omni Tool (FE)",
+      "value": 4000000
+    },
+    "industrialDrillCharge": {
+      "comment": "Energy Capacity for Industrial Drill (FE)",
+      "value": 4000000
+    }
+  },
+  "upgrades": {
+    "overclcoker_speed": {
+      "comment": "Overclocker behavior speed multipiler",
+      "value": 0.25
+    },
+    "overclcoker_power": {
+      "comment": "Overclocker behavior power multipiler",
+      "value": 0.75
+    },
+    "energy_storage": {
+      "comment": "Energy storage behavior extra power",
+      "value": 40000.0
+    }
+  },
+  "general": {
+    "enableGemTools": {
+      "comment": "Enable Gem armor and tools",
+      "value": true
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{ 
+	// Enables Smooth Camera while zooming, interferes with Cinematic Mode but it shouldn't be anything negative.
+	"smoothCamera": true,
+	"smoothTransitionOptions": { 
+		// Enables Smooth Transitions when zooming in and out.
+		"smoothTransition": false,
+		// The divisor used while applying smoothing, smaller number zooms faster, bigger number zoom slower.
+		"smoothDivisor": 128,
+		// The number of times the transition is applied during the zoom press.
+		"timesToRepeatSmoothing": 6
+	},
+	// Enables the ability to toggle zooming.
+	"zoomToggle": false,
+	/* The multiplier applied to the FOV when zooming.
+	   1.25 is the recommended maximum, anything above that will break the FOV.
+	*/
+	"zoomMultiplier": 0.5
+}

@@ -15,6 +15,9 @@
 		// Enables right-clicking in recipe books/villager trading to swiftly craft/trade.
 		// default: true
 		enable-quick-craft: true
+		// Pick correct tool when middle clicking the held block.
+		// default: false
+		hold-block-tool-pick: false
 	}
 	// Change sort modes. Existing sort modes are ALPHABET, RAW_ID and QUANTITY
 	sort: {

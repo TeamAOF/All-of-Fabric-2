@@ -1,19 +1,19 @@
 { 
 	"general": { 
+		"favorites": [ 
+],
 		// Declares whether cheating mode is on.
 		"cheating": true,
 		// Declares whether REI is visible.
-		"overlayVisible": true
+		"overlayVisible": true,
+		"favoritesEnabled": true,
+		"favoriteKeybind": "key.keyboard.a"
 	},
 	"appearance": { 
 		// The ordering of the items on the item panel.
 		"itemListOrdering": "REGISTRY_ASCENDING",
 		// Declares the appearance of REI windows.
 		"darkTheme": true,
-		/* Whether REI should render entry's overlay.
-		   Example: Enchantment Glint
-		*/
-		"renderEntryExtraOverlay": true,
 		// The ordering of the items on the item panel.
 		"recipeScreenType": "ORIGINAL",
 		// Declares the position of the search field.
@@ -34,7 +34,9 @@
 		"villagerScreenPermanentScrollBar": false,
 		// Declares whether if entry list widget is scrolled.
 		"scrollingEntryListWidget": false,
-		"snapToRows": false
+		"snapToRows": false,
+		"displayFavoritesOnTheLeft": true,
+		"displayFavoritesTooltip": true
 	},
 	"modules": { 
 		// Declares whether the craftable filter button is enabled.
@@ -58,6 +60,12 @@
 		"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
 		// Declares the command used to change weather.
 		"weatherCommand": "/weather {weather}",
-		"registerRecipesInAnotherThread": true
+		"registerRecipesInAnotherThread": true,
+		"debugRenderTimeRequired": false
+	},
+	"performance": { 
+		// Whether REI should render entry's enchantment glint
+		"renderEntryEnchantmentGlint": true,
+		"fastEntryRendering": false
 	}
 }
