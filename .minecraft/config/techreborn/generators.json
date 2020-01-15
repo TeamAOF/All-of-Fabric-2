@@ -173,6 +173,12 @@
       "value": 16
     }
   },
+  "solarPanelGeneral": {
+    "internalCapacity": {
+      "comment": "Multiplier for internal capacity of solar panels (multiplier * day generation rate)",
+      "value": 2000
+    }
+  },
   "solarPanelUltimate": {
     "ultimateDayRate": {
       "comment": "Generation rate during day for Ultimate Solar Panel (Value in FE)",

@@ -82,6 +82,10 @@
       "comment": "Overclocker behavior speed multipiler",
       "value": 0.25
     },
+    "super_conductor": {
+      "comment": "Energy flow power increase",
+      "value": 1.0
+    },
     "overclcoker_power": {
       "comment": "Overclocker behavior power multipiler",
       "value": 0.75

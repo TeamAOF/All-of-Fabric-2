@@ -6,6 +6,9 @@
   "EnableTreeFeller": true,
   "EnableVeinMiner": true,
   "EnableSoulBound": true,
+  "EnableAccuracy": true,
+  "EnableInAccuracy": true,
+  "EnableArrowChaos": true,
   "UseStandardSoulboundMechanics": false,
   "VeinMinerMaxBreakByLvl": [
     7,

@@ -7,36 +7,64 @@
 		// Declares whether REI is visible.
 		"overlayVisible": true,
 		"favoritesEnabled": true,
-		"favoriteKeybind": "key.keyboard.a"
+		"recipeKeybind": { 
+			"keyCode": "key.keyboard.r",
+			"modifier": 0
+		},
+		"usageKeybind": { 
+			"keyCode": "key.keyboard.u",
+			"modifier": 0
+		},
+		"hideKeybind": { 
+			"keyCode": "key.keyboard.o",
+			"modifier": 2
+		},
+		"previousPageKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		},
+		"nextPageKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		},
+		"focusSearchFieldKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		},
+		"copyRecipeIdentifierKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		},
+		"favoriteKeybind": null
 	},
 	"appearance": { 
+		"recipeScreenType": "ORIGINAL",
 		// The ordering of the items on the item panel.
 		"itemListOrdering": "REGISTRY_ASCENDING",
 		// Declares the appearance of REI windows.
 		"darkTheme": true,
-		// The ordering of the items on the item panel.
-		"recipeScreenType": "ORIGINAL",
 		// Declares the position of the search field.
 		"searchFieldLocation": "CENTER",
 		// Declares the position of the item list panel.
 		"mirrorItemPanel": false,
 		// Declares the maximum amount of recipes displayed in a page if possible.
 		"maxRecipePerPage": 3,
-		// Declares whether REI should lighten the button if hovered.
-		"lighterButtonHover": true,
 		"clickableRecipeArrows": true,
-		"itemCheatingMode": "REI_LIKE",
 		// Declares the appearance of recipe's border.
 		"lightGrayRecipeBorder": false,
 		// Declares whether REI should append mod names to item stacks.
 		"appendModNames": true,
 		// Declares how the scrollbar in villager screen should act.
 		"villagerScreenPermanentScrollBar": false,
-		// Declares whether if entry list widget is scrolled.
+		// Declares whether entry list widget is scrolled.
 		"scrollingEntryListWidget": false,
 		"snapToRows": false,
 		"displayFavoritesOnTheLeft": true,
-		"displayFavoritesTooltip": true
+		"displayFavoritesTooltip": true,
+		// Declares whether favorites will be searched.
+		"searchFavorites": true,
+		"entrySize": 1.0,
+		"useCompactTabs": true
 	},
 	"modules": { 
 		// Declares whether the craftable filter button is enabled.

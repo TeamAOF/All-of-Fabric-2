@@ -8,6 +8,10 @@
       "comment": "Allow refunding items used to craft the manual",
       "value": true
     },
+    "MachineSoundVolume": {
+      "comment": "Machines crafting sound volume (0 - disabled, 1 - max)",
+      "value": 1.0
+    },
     "IC2TransformersStyle": {
       "comment": "Input from dots side, output from other sides, like in IC2.",
       "value": true

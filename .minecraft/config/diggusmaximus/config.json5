@@ -13,8 +13,12 @@
 	"autoPickup": true,
 	// Tool required to excavate
 	"requiresTool": false,
+	// Stop before tool breaks
+	"dontBreakTool": true,
+	// Stop excavating when tool breaks
+	"stopOnToolBreak": true,
 	// Should tool take durability
-	"toolDuribility": true,
+	"toolDurability": true,
 	// Should player get exhaustion
 	"playerExhaustion": true
 }
