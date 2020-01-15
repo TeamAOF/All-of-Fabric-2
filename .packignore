@@ -5,10 +5,12 @@
 .minecraft/chooser_0.png
 .minecraft/craftpresence
 .minecraft/crash-reports
+.minecraft/hs_err_pid13976.log
 .minecraft/logs
 .minecraft/mobs_0.png
 .minecraft/mods/mamiyaotaru
 .minecraft/mods.backup
+.minecraft/not-enough-crashes
 .minecraft/options.txt
 .minecraft/pings_0.png
 .minecraft/realms_persistence.json
@@ -22,3 +24,4 @@
 .minecraft/waypoints_0.png
 README.md
 changelog.md
+patches
