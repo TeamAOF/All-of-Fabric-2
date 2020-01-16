@@ -2,7 +2,7 @@
 	"buttons": {
 		"minecraft.realms": {
 			// X offset from center
-			"x": -1500,
+			"x": -1900,
 			// Y offset from top
 			"y": 84,
 			"width": 100,
@@ -30,25 +30,12 @@
 			// X offset from center
 			"x": -99,
 			// Y offset from top
-			"y": 48,
+			"y": 150,
 			"width": 83,
-			"height": 20,
+			"height": 10,
 			"text": "Discord",
 			"type": "url",
 			"parameter": "https://discord.gg/6rkdm48",
-			// Not currently implemented
-			"textureName": ""
-		},
-		"minecraft.quit": {
-			// X offset from center
-			"x": 3,
-			// Y offset from top
-			"y": 73,
-			"width": 97,
-			"height": 20,
-			"text": "Exit Game",
-			"type": "modify",
-			"parameter": "",
 			// Not currently implemented
 			"textureName": ""
 		},
@@ -56,25 +43,12 @@
 			// X offset from center
 			"x": 17,
 			// Y offset from top
-			"y": 48,
+			"y": 150,
 			"width": 83,
-			"height": 20,
+			"height": 10,
 			"text": "Changelogs",
 			"type": "url",
 			"parameter": "https://github.com/AllOfFabric/AOF-2/releases",
-			// Not currently implemented
-			"textureName": ""
-		},
-		"minecraft.options": {
-			// X offset from center
-			"x": -99,
-			// Y offset from top
-			"y": 73,
-			"width": 97,
-			"height": 20,
-			"text": "<default>",
-			"type": "modify",
-			"parameter": "",
 			// Not currently implemented
 			"textureName": ""
 		},
