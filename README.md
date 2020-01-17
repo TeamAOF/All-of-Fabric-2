@@ -7,11 +7,11 @@
 
 **Latest Release:** \
 *MultiMC:*
-https://github.com/AllOfFabric/AOF-2/releases/download/1.2.0/AOF.2.v1.2.0.zip \
-**(v1.2.0)**\
+https://github.com/AllOfFabric/AOF-2/releases/download/1.2.1/AOF.2.v1.2.1.zip \
+**(v1.2.1)**\
 *Server:*
-https://github.com/AllOfFabric/AOF-2/releases/download/1.2.0/AOF.2.Server.v1.2.0.rar \
-**(v1.2.0)**
+https://github.com/AllOfFabric/AOF-2/releases/download/1.2.0/AOF.2.Server.v1.2.1.zip \
+**(v1.2.1)**
 
 
 **Changelogs & releases:** \
@@ -42,7 +42,7 @@ Minecraft 1.15.1
 - [Amecs (Fabric): amecs-1.2.9+1.15-pre5.jar](https://www.curseforge.com/minecraft/mc-mods/amecs)
 - [AppleSkin: appleskin-mc1.15-fabric-1.0.8.jar](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [Aquarius: aquarius-1.4.0+1.15.jar](https://www.curseforge.com/minecraft/mc-mods/aquarius)
-- [Fabric Autoswitch: autoswitch-0.11.1.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)
+- [Fabric Autoswitch: autoswitch-0.11.2.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)
 - [Bee Angry-est: BeeAngryest-1.4.0+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/bee-angry-est)
 - [Bee Better: beebetter-1.6.0.jar](https://www.curseforge.com/minecraft/mc-mods/bee-better)
 - [Bee-in-a-Jar: beeinajar-19w36a-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/bee-in-a-jar)
@@ -80,10 +80,11 @@ Minecraft 1.15.1
 - [VoxelMap: fabricmod_VoxelMap-1.9.14_for_1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
 - [Fat Experience Orbs: FatExperienceOrbs-0.0.6 (1).jar](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
 - [Flax Mod (Fabric): Flax-1.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/flax-mod-fabric)
+- [Flonters: Flonters-1.0.2+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/flonters)
 - [GamemodeOverhaul: GamemodeOverhaul-1.0.1.6.jar](https://www.curseforge.com/minecraft/mc-mods/gamemodeoverhaul)
 - [Gift It! (Fabric): giftit-1.1.2+1.15-pre7.jar](https://www.curseforge.com/minecraft/mc-mods/gift-it)
 - [Modern Glass Doors: glassdoor-1.4.3.jar](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors)
-- [Glassential (Fabric): glassential-fabric-1.15.1-1.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/glassential-fabric)
+- [Glassential (Fabric): glassential-fabric-1.15.1-1.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/glassential-fabric)
 - [Glowing Beds: glowingbeds-1.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/glowing-beds)
 - [Grass Kiss (Fabric): grass_kiss-0.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/grass-kiss)
 - [Health Overlay: HealthOverlay-1.15-2.2.10.jar](https://www.curseforge.com/minecraft/mc-mods/health-overlay)
@@ -110,7 +111,7 @@ Minecraft 1.15.1
 - [More Berries: moreberries-1.2.3.jar](https://www.curseforge.com/minecraft/mc-mods/more-berries)
 - [Mouse Wheelie (Fabric): mousewheelie-1.3.10+1.15.1-pre1.jar](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
 - Ninjatips
-- [Nomad Books ðŸ“—: nomadbooks-0.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/nomadbooks)
+- [Nomad Books ðŸ“—: nomadbooks-0.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/nomadbooks)
 - [Not Enough Crashes: notenoughcrashes-1.2.3+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
 - [Ok Zoomer: okzoomer-2.1.0-beta.1.jar](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
 - [Orderly (Fabric): orderly-1.2.0+build.1-1.15.jar](https://www.curseforge.com/minecraft/mc-mods/orderly)
@@ -119,9 +120,9 @@ Minecraft 1.15.1
 - [Redstone Bits: redstone-bits-1.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/redstone-bits)
 - [RetroExchange: Retro-Exchange-1.15-3.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/retroexchange)
 - [Right Click Clear: right-click-clear-1.1.1-unstable.201912010707.jar](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
-- [Roughly Enough Items: RoughlyEnoughItems-3.3.10.jar](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [Roughly Enough Items: RoughlyEnoughItems-3.3.12.jar](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 - [Screenshot to Clipboard (Fabric): ScreenshotToClipboardFabric-1.0.3.jar](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric)
-- [Shulker Charm: shulkercharm-1.1.0+1.15.jar](https://www.curseforge.com/minecraft/mc-mods/shulker-charm)
+- [Shulker Charm: shulkercharm-1.1.1+1.15.jar](https://www.curseforge.com/minecraft/mc-mods/shulker-charm)
 - [Simple BC Pipes: simplepipes-all-0.3.3.jar](https://www.curseforge.com/minecraft/mc-mods/simplepipes)
 - [Simple Teleporters (Fabric): simpleteleporters-2.2.0-1.15.jar](https://www.curseforge.com/minecraft/mc-mods/simple-teleporters-fabric)
 - [Simple Void World: SimpleVoidWorld-3.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/simple-void-world)
@@ -138,7 +139,7 @@ Minecraft 1.15.1
 - [Tech Reborn: TechReborn-1.15-3.2.2+build.131.jar](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 - [Terrestria (Fabric): terrestria-1.1.1+build.18.jar](https://www.curseforge.com/minecraft/mc-mods/terrestria)
 - [The Hallow: TheHallow-1.1.3-beta+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/the-hallow)
-- [Torcherino: torcherino-10.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/torcherino)
+- [Tooltipped: Tooltipped-1.1.jar](https://www.curseforge.com/minecraft/mc-mods/tooltipped)
 - [Trap Expansion  (Fabric): trapexpansion-1.3.1-fabric1.15.jar](https://www.curseforge.com/minecraft/mc-mods/trap-expansion-fabric)
 - [Traverse (Fabric): traverse-2.1.7+build.15.jar](https://www.curseforge.com/minecraft/mc-mods/traverse)
 - [Trumpet Skeleton (Fabric): trumpet-skeleton-fabric-1.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/trumpet-skeleton-fabric)
