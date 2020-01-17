@@ -7,11 +7,11 @@
 
 **Latest Release:** \
 *MultiMC:*
-https://github.com/AllOfFabric/AOF-2/releases/download/1.2.1/AOF.2.v1.2.1.zip \
-**(v1.2.1)**\
+https://github.com/AllOfFabric/AOF-2/releases/download/1.3.1/AOF.2.v1.3.0.zip \
+**(v1.3.0)**\
 *Server:*
-https://github.com/AllOfFabric/AOF-2/releases/download/1.2.0/AOF.2.Server.v1.2.1.zip \
-**(v1.2.1)**
+https://github.com/AllOfFabric/AOF-2/releases/download/1.3.0/AOF.2.Server.v1.3.0.zip \
+**(v1.3.0)**
 
 
 **Changelogs & releases:** \
@@ -39,6 +39,7 @@ Minecraft 1.15.1
 
 **Mods**
 - [Adorn: Adorn-1.6.5+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/adorn)
+- [Advancements Enlarger: advancements-enlarger-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
 - [Amecs (Fabric): amecs-1.2.9+1.15-pre5.jar](https://www.curseforge.com/minecraft/mc-mods/amecs)
 - [AppleSkin: appleskin-mc1.15-fabric-1.0.8.jar](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [Aquarius: aquarius-1.4.0+1.15.jar](https://www.curseforge.com/minecraft/mc-mods/aquarius)
@@ -54,7 +55,10 @@ Minecraft 1.15.1
 - [Bucket Hat: bucket-hat-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/bucket-hat)
 - [Bulky Shulkies: bulkyshulkies-1.0.3.jar](https://www.curseforge.com/minecraft/mc-mods/bulky-shulkies)
 - [Bunch O' Trinkets: bunch-o-trinkets-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/bunch-o-trinkets)
+- [CleanView: CleanView-1.15.1-v1-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+- [Clear Skies: clear-skies-mc115-1.1.19.jar](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
 - [Climatic World Type: climaticworldtype-1.1.4.jar](https://www.curseforge.com/minecraft/mc-mods/climatic-world-type)
+- [Clippy's Tippies Â®: clippys_tippies-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/clippys-tippies)
 - Cloth
 - [Command Macros: cmdkeybind-1.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/command-macros)
 - [Colorful Campfire Smoke: coloredcampfire-1.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/colorful-campfire-smoke)
@@ -68,7 +72,9 @@ Minecraft 1.15.1
 - [Diggus Maximus: diggusmaximus-1.2.6.jar](https://www.curseforge.com/minecraft/mc-mods/diggus-maximus)
 - [Ding!: ding-3.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/ding-fabric)
 - [Dynamic FPS: dynamic-fps-1.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+- [Elytra Swap: elytra_swap-1.2.2-1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/elytra-swap)
 - [Enchanted ToolTips: EnchantedToolTips-1.2.4.jar](https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips)
+- [Endfestation: endfestation-1.15.1-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/endfestation)
 - [Everything is a Hat: everything-is-a-hat-1.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/everything-is-a-hat)
 - [Exotic Blocks: exotic-blocks-mc115-1.0.108.jar](https://www.curseforge.com/minecraft/mc-mods/exotic-blocks)
 - [Expanded Storage: expandedstorage-4.9.35+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/expanded-storage)
@@ -78,9 +84,12 @@ Minecraft 1.15.1
 - [FabriBlocks: fabriblocks-1.1.7.jar](https://www.curseforge.com/minecraft/mc-mods/fabriblocks)
 - [Fabric Furnaces: fabric-furnaces_1.15pre4-1.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces)
 - [VoxelMap: fabricmod_VoxelMap-1.9.14_for_1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
+- [Facility: facility-mc115-0.2.96.jar](https://www.curseforge.com/minecraft/mc-mods/facility)
 - [Fat Experience Orbs: FatExperienceOrbs-0.0.6 (1).jar](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
+- Flamingo
 - [Flax Mod (Fabric): Flax-1.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/flax-mod-fabric)
 - [Flonters: Flonters-1.0.2+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/flonters)
+- [Flora Doubling (Forge & Fabric): Flora-Doubling-1.15.1-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/flora-doubling)
 - [GamemodeOverhaul: GamemodeOverhaul-1.0.1.6.jar](https://www.curseforge.com/minecraft/mc-mods/gamemodeoverhaul)
 - [Gift It! (Fabric): giftit-1.1.2+1.15-pre7.jar](https://www.curseforge.com/minecraft/mc-mods/gift-it)
 - [Modern Glass Doors: glassdoor-1.4.3.jar](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors)
@@ -91,6 +100,7 @@ Minecraft 1.15.1
 - [Hollow Logs: hollowlogs-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/hollow-logs)
 - [Horse Stats Vanilla (Fabric): horse-stats-vanilla-1.0.3.jar](https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla)
 - [Hwyla: Hwyla-fabric-1.15-pre4-1.9.19-70.jar](https://www.curseforge.com/minecraft/mc-mods/hwyla)
+- [I Am Very Smart: i-am-very-smart-1.5.0+mc1.14.4.jar](https://www.curseforge.com/minecraft/mc-mods/i-am-very-smart)
 - [I Need Keybinds: i-need-keybinds-0.2.1-unstable.201912010804.jar](https://www.curseforge.com/minecraft/mc-mods/i-need-keybinds)
 - [Illuminations ðŸ”¥: illuminations-0.4.0-1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/illuminations)
 - [Imbued Torches: imbuedtorches-1.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/imbued-torches)
@@ -106,8 +116,10 @@ Minecraft 1.15.1
 - [Linked Storage: linkedstorage-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/linked-storage)
 - [Llama Steeds: llamasteeds-2020.01.10.jar](https://www.curseforge.com/minecraft/mc-mods/llama-steeds)
 - Malilib
+- [MAmbience: Mambience-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/mambience)
 - [Materialisation: Materialisation-2.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/materialisation)
 - [Mod Menu (Fabric): modmenu-1.8.3+build.19.jar](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- [Mooblooms: mooblooms-1.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/mooblooms)
 - [More Berries: moreberries-1.2.3.jar](https://www.curseforge.com/minecraft/mc-mods/more-berries)
 - [Mouse Wheelie (Fabric): mousewheelie-1.3.10+1.15.1-pre1.jar](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
 - Ninjatips
@@ -121,7 +133,9 @@ Minecraft 1.15.1
 - [RetroExchange: Retro-Exchange-1.15-3.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/retroexchange)
 - [Right Click Clear: right-click-clear-1.1.1-unstable.201912010707.jar](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
 - [Roughly Enough Items: RoughlyEnoughItems-3.3.12.jar](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [Rubik's Hotbar (Fabric): rubikshotbar-0.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/rubiks-hotbar)
 - [Screenshot to Clipboard (Fabric): ScreenshotToClipboardFabric-1.0.3.jar](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric)
+- [ShulkerBoxTooltip: shulkerboxtooltip-1.4.4+1.15.0.jar](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
 - [Shulker Charm: shulkercharm-1.1.1+1.15.jar](https://www.curseforge.com/minecraft/mc-mods/shulker-charm)
 - [Simple BC Pipes: simplepipes-all-0.3.3.jar](https://www.curseforge.com/minecraft/mc-mods/simplepipes)
 - [Simple Teleporters (Fabric): simpleteleporters-2.2.0-1.15.jar](https://www.curseforge.com/minecraft/mc-mods/simple-teleporters-fabric)
@@ -129,6 +143,7 @@ Minecraft 1.15.1
 - [Simplex Terrain Generation: simplexterrain-0.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/simplex-terrain-generation)
 - [Sit (Fabric): sit-1.15-4.jar](https://www.curseforge.com/minecraft/mc-mods/sit-fabric)
 - [Smooth Scrolling Everywhere (Fabric): SmoothScrollingEverywhere-2.3.jar](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)
+- [Sneak Through Berries: Sneak-Through-Berries-1.15.1-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/sneak-through-berries-forge)
 - [Sneaky Screens: sneakyscreens-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens)
 - [Snowdrift: snowdrift-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/snowdrift)
 - [Soul Shards Respawn: SoulShards-fabric-1.15-pre7-1.0.12-12.jar](https://www.curseforge.com/minecraft/mc-mods/soul-shards-respawn)
@@ -140,9 +155,12 @@ Minecraft 1.15.1
 - [Terrestria (Fabric): terrestria-1.1.1+build.18.jar](https://www.curseforge.com/minecraft/mc-mods/terrestria)
 - [The Hallow: TheHallow-1.1.3-beta+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/the-hallow)
 - [Tooltipped: Tooltipped-1.1.jar](https://www.curseforge.com/minecraft/mc-mods/tooltipped)
+- [ToolTip AutoWrap: tooltipwrap-1.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/tooltip-autowrap)
+- [Torcherino: Torcherino-2.11.58 (1).jar](https://www.curseforge.com/minecraft/mc-mods/torcherino)
 - [Trap Expansion  (Fabric): trapexpansion-1.3.1-fabric1.15.jar](https://www.curseforge.com/minecraft/mc-mods/trap-expansion-fabric)
 - [Traverse (Fabric): traverse-2.1.7+build.15.jar](https://www.curseforge.com/minecraft/mc-mods/traverse)
 - [Trumpet Skeleton (Fabric): trumpet-skeleton-fabric-1.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/trumpet-skeleton-fabric)
+- [Vanilla Parts: VanillaParts-1.1.2+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/vanilla-parts)
 - [VariablePaxels: VariablePaxels-1.15-1.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/variablepaxels)
 - [Vertical Redstone: vertical-redstone-1.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/vertical-redstone)
 - [Villager Hats: villager-hats-fabric-1.15.0-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/villager-hats)
@@ -155,6 +173,7 @@ Minecraft 1.15.1
 - [Cotton: cotton-1.0.0-rc.7.jar](https://www.curseforge.com/minecraft/mc-mods/cotton)
 - [Exotic Matter Library: exotic-matter-mc115-1.14.291.jar](https://www.curseforge.com/minecraft/mc-mods/exotic-matter-library)
 - [Fabric API: fabric-api-0.4.27+build.286-1.15.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+- [Fabric Drawer: fabric-drawer-3.2.0-1.15-pre1.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-drawer)
 - [Fabric Language Kotlin: fabric-language-kotlin-1.3.61+build.1.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 - [Lib Block Attributes: libblockattributes-all-0.6.3.jar](https://www.curseforge.com/minecraft/mc-mods/libblockattributes)
 - [LibCapableData (LibCD): libcd-2.1.1+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/libcd)
@@ -162,4 +181,5 @@ Minecraft 1.15.1
 - [Reborn Core: RebornCore-1.15-4.1.1+build.74.jar](https://www.curseforge.com/minecraft/mc-mods/reborncore)
 - [Towelette: Towelette-3.0.0+1.15.1.jar](https://www.curseforge.com/minecraft/mc-mods/towelette)
 - [Trinkets (Fabric): trinkets-2.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric)
+- [Working Scheduler: working-scheduler-1.1.3-1.15-pre1.jar](https://www.curseforge.com/minecraft/mc-mods/working-scheduler)
 - [Wrenchable: wrenchable-0.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/wrenchable)
