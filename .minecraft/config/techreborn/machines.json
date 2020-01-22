@@ -23,12 +23,12 @@
   },
   "lesu": {
     "LesuMaxEnergyPerBlock": {
-      "comment": "LESU Max Energy Per Block (Value in EU)",
+      "comment": "LESU Max Energy Per Block",
       "value": 1000000
     },
-    "LesuMaxOutput": {
-      "comment": "LESU Base Output (Value in EU)",
-      "value": 16
+    "LesuBaseOutput": {
+      "comment": "LESU Base Output",
+      "value": 5
     },
     "LesuExtraIO": {
       "comment": "LESU Extra I/O Multiplier",
@@ -295,34 +295,6 @@
       "value": 32
     }
   },
-  "idsu": {
-    "IdsuMaxInput": {
-      "comment": "IDSU Max Input (Value in EU)",
-      "value": 8192
-    },
-    "IdsuMaxEnergy": {
-      "comment": "IDSU Max Energy (Value in EU)",
-      "value": 100000000
-    },
-    "IdsuMaxOutput": {
-      "comment": "IDSU Max Output (Value in EU)",
-      "value": 8192
-    }
-  },
-  "aesu": {
-    "AesuMaxOutput": {
-      "comment": "AESU Max Output (Value in EU)",
-      "value": 16192
-    },
-    "AesuMaxEnergy": {
-      "comment": "AESU Max Energy (Value in EU)",
-      "value": 100000000
-    },
-    "AesuMaxInput": {
-      "comment": "AESU Max Input (Value in EU)",
-      "value": 16192
-    }
-  },
   "extractor": {
     "ExtractorInput": {
       "comment": "Extractor Max Input (Value in EU)",
@@ -394,6 +366,18 @@
     "AutoCrafterMaxEnergy": {
       "comment": "AutoCrafting Table Max Energy (Value in EU)",
       "value": 10000
+    }
+  },
+  "aesu": {
+    "AesuMaxEnergy": {
+      "comment": "AESU Max Energy",
+      "value": 100000000
+    }
+  },
+  "idsu": {
+    "IdsuMaxEnergy": {
+      "comment": "IDSU Max Energy",
+      "value": 100000000
     }
   },
   "industrial_electrolyzer": {

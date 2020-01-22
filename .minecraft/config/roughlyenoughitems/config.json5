@@ -35,7 +35,14 @@
 			"keyCode": "key.keyboard.unknown",
 			"modifier": 0
 		},
-		"favoriteKeybind": null
+		"favoriteKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		},
+		"exportImageKeybind": { 
+			"keyCode": "key.keyboard.unknown",
+			"modifier": 0
+		}
 	},
 	"appearance": { 
 		"recipeScreenType": "ORIGINAL",
