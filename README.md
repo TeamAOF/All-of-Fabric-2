@@ -6,26 +6,26 @@
 *All of Fabric Discord Server: https://discord.gg/6rkdm48*	
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-**Recommended:** \
-**v2.0.0** \
-*MultiMC:* \
+**Recommended:**  
+**v2.0.0**  
+*MultiMC:*  
 https://github.com/AllOfFabric/AOF-2/releases/download/2.0.0/AOF.2.v2.0.0.zip
-\
-*Server:* \
+  
+*Server:*  
 https://github.com/AllOfFabric/AOF-2/releases/download/2.0.0/AOF.2.Server.v2.0.0.zip
-\
-\
-**Latest:** \
-**v2.0.0** \
-*MultiMC:* \
+  
+  
+**Latest:**  
+**v2.0.0**  
+*MultiMC:*  
 https://github.com/AllOfFabric/AOF-2/releases/download/2.0.0/AOF.2.v2.0.0.zip
-\
-*Server:* \
+  
+*Server:*  
 https://github.com/AllOfFabric/AOF-2/releases/download/2.0.0/AOF.2.Server.v2.0.0.zip
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-**Changelogs:** \
+**Changelogs:**  
 https://github.com/AllOfFabric/AOF-2/releases	
 
 
@@ -33,7 +33,7 @@ https://github.com/AllOfFabric/AOF-2/releases
 1. Download MultiMC at https://multimc.org/	
 2. Log into your Mojang account.	
 3. Import the Zip provided above or copy the URL and paste it into MultiMC.	
-4. Play & have fun! \
+4. Play & have fun!  
 **Video Tutorial by SuntannedDuck:**
 https://www.youtube.com/watch?v=M633Qm86tqk	
 
