@@ -2,6 +2,7 @@
 .gitignore
 .minecraft/.fabric
 .minecraft/.mixin.out
+.minecraft/_modsman
 .minecraft/chooser_0.png
 .minecraft/craftpresence
 .minecraft/crash-reports
