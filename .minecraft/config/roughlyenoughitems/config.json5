@@ -71,7 +71,8 @@
 		// Declares whether favorites will be searched.
 		"searchFavorites": true,
 		"entrySize": 1.0,
-		"useCompactTabs": true
+		"useCompactTabs": true,
+		"lowerConfigButton": false
 	},
 	"modules": { 
 		// Declares whether the craftable filter button is enabled.
