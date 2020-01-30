@@ -14,7 +14,7 @@
     },
     "sortingMethod": "default",
     "sortInventory": {
-      "keys": "R",
+      "keys": "",
       "settings": {
         "activate_on": "PRESS",
         "context": "GUI",

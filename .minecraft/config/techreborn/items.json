@@ -5,11 +5,11 @@
       "value": 400000
     },
     "industrialJackhammerCost": {
-      "comment": "Energy Cost for Industrial Jackhammer (FE)",
+      "comment": "Energy Cost for Industrial Jackhammer",
       "value": 250
     },
     "basicJackhammerCharge": {
-      "comment": "Energy Capacity for Basic Jackhammer (FE)",
+      "comment": "Energy Capacity for Basic Jackhammer",
       "value": 40000
     },
     "clockingDeviceEnergyUsage": {
@@ -29,7 +29,7 @@
       "value": 8000000
     },
     "basicJackhammerCost": {
-      "comment": "Energy Cost for Basic Jackhammer (FE)",
+      "comment": "Energy Cost for Basic Jackhammer",
       "value": 50
     },
     "lapotronicOrbMaxCharge": {
@@ -45,11 +45,11 @@
       "value": 100000
     },
     "advancedChainsawCharge": {
-      "comment": "Energy Capacity for Advanced Chainsaw (FE)",
+      "comment": "Energy Capacity for Advanced Chainsaw",
       "value": 400000
     },
     "nanoSaberCharge": {
-      "comment": "Energy Capacity for Nano Saber (FE)",
+      "comment": "Energy Capacity for Nano Saber",
       "value": 4000000
     },
     "lapotronPackCharge": {
@@ -61,7 +61,7 @@
       "value": 40000
     },
     "industrialJackhammerCharge": {
-      "comment": "Energy Capacity for Industrial Jackhammer (FE)",
+      "comment": "Energy Capacity for Industrial Jackhammer",
       "value": 4000000
     },
     "quantumSuitFireExtinguishCost": {
@@ -69,7 +69,7 @@
       "value": 50.0
     },
     "nanoSaberCost": {
-      "comment": "Energy Cost for Nano Saber (FE)",
+      "comment": "Energy Cost for Nano Saber",
       "value": 250
     },
     "quantumSuitCapacity": {
@@ -81,7 +81,7 @@
       "value": 20.0
     },
     "advancedJackhammerCharge": {
-      "comment": "Energy Capacity for Advanced Jackhammer (FE)",
+      "comment": "Energy Capacity for Advanced Jackhammer",
       "value": 400000
     },
     "rockCutterCost": {
@@ -89,15 +89,15 @@
       "value": 500
     },
     "advancedJackhammerCost": {
-      "comment": "Energy Cost for Advanced Jackhammer (FE)",
+      "comment": "Energy Cost for Advanced Jackhammer",
       "value": 100
     },
     "electricTreetapCost": {
-      "comment": "Energy Cost for Electric Treetap (FE)",
+      "comment": "Energy Cost for Electric Treetap",
       "value": 20
     },
     "omniToolHitCost": {
-      "comment": "Hit Energy Cost for Omni Tool (FE)",
+      "comment": "Hit Energy Cost for Omni Tool",
       "value": 125
     },
     "redCellBatteryMaxCharge": {
@@ -105,15 +105,15 @@
       "value": 10000
     },
     "basicChainsawCost": {
-      "comment": "Energy Cost for Basic Chainsaw (FE)",
+      "comment": "Energy Cost for Basic Chainsaw",
       "value": 50
     },
     "advancedChainsawCost": {
-      "comment": "Energy Cost for Advanced Chainsaw (FE)",
+      "comment": "Energy Cost for Advanced Chainsaw",
       "value": 100
     },
     "basicChainsawCharge": {
-      "comment": "Energy Capacity for Basic Chainsaw (FE)",
+      "comment": "Energy Capacity for Basic Chainsaw",
       "value": 40000
     },
     "basicDrillCost": {
@@ -125,7 +125,7 @@
       "value": 250
     },
     "industrialChainsawCharge": {
-      "comment": "Energy Capacity for Industrial Chainsaw (FE)",
+      "comment": "Energy Capacity for Industrial Chainsaw",
       "value": 4000000
     },
     "quantumSuitFlyingCost": {
@@ -133,11 +133,11 @@
       "value": 50.0
     },
     "omniToolCost": {
-      "comment": "Energy Cost for Omni Tool (FE)",
+      "comment": "Energy Cost for Omni Tool",
       "value": 100
     },
     "industrialChainsawCost": {
-      "comment": "Energy Cost for Industrial Chainsaw (FE)",
+      "comment": "Energy Cost for Industrial Chainsaw",
       "value": 250
     },
     "lapotronCrystalMaxCharge": {
@@ -157,7 +157,7 @@
       "value": 4000000
     },
     "omniToolCharge": {
-      "comment": "Energy Capacity for Omni Tool (FE)",
+      "comment": "Energy Capacity for Omni Tool",
       "value": 4000000
     },
     "industrialDrillCharge": {
@@ -165,7 +165,7 @@
       "value": 4000000
     },
     "electricTreetapCharge": {
-      "comment": "Energy Capacity for Electric Treetap (FE)",
+      "comment": "Energy Capacity for Electric Treetap",
       "value": 10000
     }
   },
