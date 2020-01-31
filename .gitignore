@@ -37,3 +37,7 @@ natives/
 .minecraft/craftpresence/
 
 .minecraft/_AOF/
+
+.minecraft/hs_err_pid13976.log
+
+.minecraft/hs_err_pid25412.log
