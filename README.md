@@ -9,17 +9,17 @@
 **Recommended:**  
 **v2.1.2**  
 *MultiMC:*  
-https://github.com/AllOfFabric/AOF-2/releases/download/2.1.2/AOF.2.v2.1.2.zip  
+https://github.com/AllOfFabric/AOF-2/releases/download/2.1.3/AOF.2.v2.1.3.zip  
 *Server:*  
-https://github.com/AllOfFabric/AOF-2/releases/download/2.1.2/AOF.2.Server.v2.1.2.zip  
+https://github.com/AllOfFabric/AOF-2/releases/download/2.1.3/AOF.2.Server.v2.1.3.zip  
   
   
 **Latest:**  
 **v2.1.2**  
 *MultiMC:*  
-https://github.com/AllOfFabric/AOF-2/releases/download/2.1.2/AOF.2.v2.1.2.zip  
+https://github.com/AllOfFabric/AOF-2/releases/download/2.1.3/AOF.2.v2.1.3.zip  
 *Server:*  
-https://github.com/AllOfFabric/AOF-2/releases/download/2.1.2/AOF.2.Server.v2.1.2.zip  
+https://github.com/AllOfFabric/AOF-2/releases/download/2.1.3/AOF.2.Server.v2.1.3.zip  
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
