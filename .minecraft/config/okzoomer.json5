@@ -1,26 +1,14 @@
 { 
+	// The divisor applied to the FOV when zooming.
+	"zoomDivisor": 4.0,
 	// Enables Smooth Camera while zooming, interferes with Cinematic Mode but it shouldn't be anything negative.
 	"smoothCamera": true,
 	// While enabled, zooming hides your hands.
 	"hideHands": true,
 	// Enables Smooth Transitions when zooming in and out.
 	"smoothTransition": false,
-	"advancedSmoothTransSettings": { 
-		// The divisor used while applying smoothing, smaller number zooms faster, bigger number zoom slower.
-		"smoothDivisor": 128,
-		// The number of times the transition is applied during the zoom press.
-		"timesToRepeatSmoothing": 5,
-		// The multiplier used on the FOV's smoothing while it's being zoomed in.
-		"transitionStartMultiplier": 2.0,
-		// The multiplier used on the FOV's smoothing while it's being zoomed out.
-		"transitionEndMultiplier": 2.0
-	},
 	// Enables the ability to toggle zooming.
 	"zoomToggle": false,
 	// Reduces the mouse sensitivity when zooming.
-	"reduceSensitivity": false,
-	/* The multiplier applied to the FOV when zooming.
-	   1.25 is the recommended maximum, anything above that will break the FOV.
-	*/
-	"zoomMultiplier": 0.5
+	"reduceSensitivity": false
 }

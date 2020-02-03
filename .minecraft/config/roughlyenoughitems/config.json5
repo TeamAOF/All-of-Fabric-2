@@ -65,8 +65,11 @@
 		"villagerScreenPermanentScrollBar": false,
 		// Declares whether entry list widget is scrolled.
 		"scrollingEntryListWidget": false,
+		// Declares whether scrolled entry list widget should snap to rows.
 		"snapToRows": false,
+		// Declares the location of the favorites list.
 		"displayFavoritesOnTheLeft": true,
+		// Declares whether favorites tooltip should be displayed.
 		"displayFavoritesTooltip": true,
 		// Declares whether favorites will be searched.
 		"searchFavorites": true,
