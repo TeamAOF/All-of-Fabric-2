@@ -23,11 +23,10 @@ https://github.com/AllOfFabric/AOF-2/releases/download/2.3.0/AOF.2.v2.3.0.zip
 *Server:*  
 https://github.com/AllOfFabric/AOF-2/releases/download/2.3.0/AOF.2.Server.v2.3.0.zip  
 
-----------------------------------------------------------------------------------------------------------------------------------------
-
 **Changelogs:**  
 https://github.com/AllOfFabric/AOF-2/releases	
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 **HOW TO INSTALL MODPACK**	
 1. Download MultiMC at https://multimc.org/	
