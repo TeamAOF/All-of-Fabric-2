@@ -42,6 +42,13 @@ https://www.youtube.com/watch?v=M633Qm86tqk
 4. Run Start.cmd
 5. Connect.
 
+**HOW TO DISABLE/REMOVE MODS**	
+1. Right click the Instance in MULTIMC.
+2. Press "Edit Instance",
+3. In the Right Panel click Settings.
+4. Click "Custom Commands" and turn it OFF.
+5. You can now remove/disable mods without it redownloading them again.
+
 **Loader**
 Minecraft 1.15.2
 [Fabric Loader 0.7.6+build.180](https://fabricmc.net)
