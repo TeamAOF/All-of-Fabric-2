@@ -27,8 +27,8 @@
 	   Max magnet range increases for each polarized iron armor piece.
 	*/
 	"polarized_iron_armor_additional_magnet_range": {
-		"HEAD": 2,
 		"CHEST": 4,
+		"HEAD": 2,
 		"LEGS": 3,
 		"FEET": 1
 	}
