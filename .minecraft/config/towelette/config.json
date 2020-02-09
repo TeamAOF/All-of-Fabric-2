@@ -3,6 +3,7 @@
 	"unpushableFluids": true,
 	"flowingFluidlogging": false,
 	"accurateFlowBlocking": true,
+	"automaticFluidlogging": true,
 	"miscFluidlogging": {
 		"barrier": false,
 		"beacon": false,
