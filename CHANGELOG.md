@@ -8,6 +8,7 @@
 - REI Favorites is now bound to keybinding A.
 - Enabled Fly Drifting as it was causing issues with Quantum Suit & Angel Ring. Will be disabled again when fixed.
 - Server included by default.
+- Fabric Essentials will now be included in the server, this will allow of commands like /home, /spawn, /warp, /back & more!
 
 
 **Added**
