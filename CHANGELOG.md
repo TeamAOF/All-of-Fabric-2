@@ -6,6 +6,7 @@
 - New button colors, finalized main menu will come soon. **(Thanks to Flat Jim)**
 - Fixed exploit using favorites in REI which let you cheat in items.
 - Fixed Craft Presence displaying wrong info.
+- Fixed StackOverflow crash on servers.
 - Craft Presence Config Keybind is now '+'.
 - Vein Miner is bound to Grave Key by default.
 
