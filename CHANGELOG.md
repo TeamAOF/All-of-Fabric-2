@@ -8,12 +8,10 @@
 - Fixed Craft Presence displaying wrong info.
 - Craft Presence Config Keybind is now '+'.
 - Vein Miner is bound to Grave Key by default.
-- Loot Bags are now a thing! Currently there's only the Epic one, expect more in the next update.
 
 
 **Added**
 - **ChunkBorders** (ChunkBorders-0.4.2-fabric-mc1.15.jar)
-- **OLBM** (olbm-1.0.0+1.15.2.jar)
 - **Secret Rooms** (secretrooms-0.5.4.jar)
 
 
