@@ -1,3 +1,28 @@
+<h1>v2.5.3</h2>
+
+**Changed/Fixed**
+- Window Title now says All of Fabric 2 instead of AOF 2.
+- Added Doors script, also allows for reverting.
+- New button colors, finalized main menu will come soon. **(Thanks to Flat Jim)**
+- Fixed exploit using favorites in REI which let you cheat in items.
+- Fixed Craft Presence displaying wrong info.
+- Craft Presence Config Keybind is now '+'.
+- Vein Miner is bound to Grave Key by default.
+- Loot Bags are now a thing! Currently there's only the Epic one, expect more in the next update.
+
+
+**Added**
+- **ChunkBorders** (ChunkBorders-0.4.2-fabric-mc1.15.jar)
+- **OLBM** (olbm-1.0.0+1.15.2.jar)
+- **Secret Rooms** (secretrooms-0.5.4.jar)
+
+
+**Updated**
+- **Go Down** (godown-0.1.0.jar -> godown-0.2.0+1.15.jar)
+- **Quick Shulker** (quickshulker-1.0.0.jar -> quickshulker-1.0.1.jar)
+- **Roughly Enough Items** (RoughlyEnoughItems-3.4.2.jar -> RoughlyEnoughItems-3.4.4.jar)
+- **Strong and Fair Anvils** (strongandfairanvils-0.3.0.jar -> strongandfairanvils-0.3.0+1.15.jar)
+
 --------------------------------------------------------------------------------
 <h1>v2.5.2</h2>
 
