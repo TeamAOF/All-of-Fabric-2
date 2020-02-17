@@ -1,3 +1,21 @@
+<h1>v2.5.4</h2>
+
+**Changed/Fixed**
+- Fixed AWTColor crash on Mac.
+- Fixed Rotten Flesh Block recipe conflict
+- The dirt background you all remember is now gone, Gray Concrete it is!
+
+
+**New**
+- **Boring Backgrounds** (boringbackgrounds-1.0.0.jar)
+- **Simple Quern** (simplequern-1.0.1.jar)
+
+
+**Changed/Updated**
+- **Better Nether** (better-nether-2.0.0.jar -> better-nether-2.1.0.jar)
+
+--------------------------------------------------------------------------------
+
 <h1>v2.5.3</h2>
 
 **Changed/Fixed**
