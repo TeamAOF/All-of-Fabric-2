@@ -22,7 +22,7 @@
 - Window Title now says All of Fabric 2 instead of AOF 2.
 - Added Doors script, also allows for reverting.
 - New button colors, finalized main menu will come soon. **(Thanks to Flat Jim)**
-- Fixed exploit using favorites in REI which let you cheat in items.
+- Added functionality for you to cheat favorites, which was previously impossible.
 - Fixed Craft Presence displaying wrong info.
 - Fixed StackOverflow crash on servers.
 - Craft Presence Config Keybind is now '+'.
