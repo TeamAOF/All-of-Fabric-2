@@ -1,3 +1,27 @@
+<h1>v2.6.0</h2>
+
+**Added**
+- **Cursed Earth** (cursedearth-1.0.jar)
+- **Fish Traps** (fishtraps-fabric-1.0.6.jar)
+- **Lakeside** (Lakeside-1.0.0+1.15.2.jar)
+- **Wands Mod** (wands-1.0.1.jar)
+
+**Updated**
+- **Elytra Swap** (elytra_swap-1.3.0.1-1.15.2.jar -> elytra_swap-1.4.0-1.15.jar)
+- **Facility** (facility-mc115-0.5.107.jar -> facility-mc115-0.6.109.jar)
+- **Inventory Profiles** (inventoryprofiles-fabric-1.15-0.1.0-dev.6.jar -> inventoryprofiles-fabric-1.15.2-0.2.0.jar)
+- **Jumploader** (jumploader-1.0.4.jar -> jumploader-1.0.5.jar)
+- **LibGui** (LibGui-1.4.0.jar -> LibGui-1.6.0.jar)
+- **Roughly Enough Items** (RoughlyEnoughItems-3.4.4.jar -> RoughlyEnoughItems-3.5.0.jar)
+- **RSWires** (rswires-4.0.6-standalone.jar -> rswires-4.0.7-standalone.jar)
+- **Shest** (shest-1.2.7.jar -> shest-1.3.1+fabric-1.15.jar)
+- **Simple Quern** (simplequern-1.0.1.jar -> simplequern-1.1.0.jar)
+- **Simplex Terrain** (simplexterrain-0.5.0.jar -> simplexterrain-0.5.1.jar)
+- **Terrestria** (terrestria-1.2.0.jar -> terrestria-1.2.1+build.29.jar)
+
+
+--------------------------------------------------------------------------------
+
 <h1>v2.5.4</h2>
 
 **Changed/Fixed**
