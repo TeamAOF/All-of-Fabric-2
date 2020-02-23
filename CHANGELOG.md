@@ -2,23 +2,35 @@
 
 **Added**
 - **Cursed Earth** (cursedearth-1.0.jar)
+- **Ender Box** (ender-box-1.0.0.jar)
+- **Fabric Chunk Pregenerator** (fabric-chunkpregen-0.1.2.jar)
 - **Fish Traps** (fishtraps-fabric-1.0.6.jar)
 - **Lakeside** (Lakeside-1.0.0+1.15.2.jar)
-- **Wands Mod** (wands-1.0.1.jar)
+- **Leaf Me Alone** (leafmealone-1.0.jar)
+- **Mob Grinder** (mob_grinder-1.0.jar)
+- **Mob Grinder** (mobgrinder-1.2.jar)
+- **Nice to Have** (nice-to-have-1.3.0-beta.5.jar)
+- **Soulbound** (Soulbound-fabric-1.14.4-1.1.0-6.jar)
+
+**Removed**
+- **Trees Do Not Float**
 
 **Updated**
+- **Boring Backgrounds** (boringbackgrounds-1.0.0.jar -> boringbackgrounds-1.0.1.jar)
 - **Elytra Swap** (elytra_swap-1.3.0.1-1.15.2.jar -> elytra_swap-1.4.0-1.15.jar)
-- **Facility** (facility-mc115-0.5.107.jar -> facility-mc115-0.6.109.jar)
+- **Exotic Matter** (exotic-matter-mc115-1.17.295.jar -> exotic-matter-mc115-1.18.299.jar)
+- **Facility** (facility-mc115-0.5.107.jar -> facility-mc115-0.7.118.jar)
+- **Horse Stats Vanilla** (horse-stats-vanilla-1.0.4.jar -> horse-stats-vanilla-1.0.5.jar)
 - **Inventory Profiles** (inventoryprofiles-fabric-1.15-0.1.0-dev.6.jar -> inventoryprofiles-fabric-1.15.2-0.2.0.jar)
 - **Jumploader** (jumploader-1.0.4.jar -> jumploader-1.0.5.jar)
 - **LibGui** (LibGui-1.4.0.jar -> LibGui-1.6.0.jar)
-- **Roughly Enough Items** (RoughlyEnoughItems-3.4.4.jar -> RoughlyEnoughItems-3.5.0.jar)
+- **Roughly Enough Items** (RoughlyEnoughItems-3.4.4.jar -> RoughlyEnoughItems-3.5.4.jar)
 - **RSWires** (rswires-4.0.6-standalone.jar -> rswires-4.0.7-standalone.jar)
 - **Shest** (shest-1.2.7.jar -> shest-1.3.1+fabric-1.15.jar)
 - **Simple Quern** (simplequern-1.0.1.jar -> simplequern-1.1.0.jar)
 - **Simplex Terrain** (simplexterrain-0.5.0.jar -> simplexterrain-0.5.1.jar)
+- **Smooth Scrolling Everywhere** (SmoothScrollingEverywhere-2.3.jar -> SmoothScrollingEverywhere-2.4.jar)
 - **Terrestria** (terrestria-1.2.0.jar -> terrestria-1.2.1+build.29.jar)
-
 
 --------------------------------------------------------------------------------
 
