@@ -7,7 +7,6 @@
 - **Fish Traps** (fishtraps-fabric-1.0.6.jar)
 - **Lakeside** (Lakeside-1.0.0+1.15.2.jar)
 - **Leaf Me Alone** (leafmealone-1.0.jar)
-- **Mob Grinder** (mob_grinder-1.0.jar)
 - **Mob Grinder** (mobgrinder-1.2.jar)
 - **Nice to Have** (nice-to-have-1.3.0-beta.5.jar)
 - **Soulbound** (Soulbound-fabric-1.14.4-1.1.0-6.jar)
