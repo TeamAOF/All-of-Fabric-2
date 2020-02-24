@@ -1,4 +1,4 @@
-<h1>v2.6.0a</h2>
+<h1>v2.6.1</h2>
 
 **Changed/Fixed**
 - Fixed critical server crash when using Ender Box.
