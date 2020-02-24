@@ -1,19 +1,13 @@
-<h1>v2.6.1</h2>
+<h1>v2.6.0(a)</h2>
 
 **Changed/Fixed**
-- Fixed crash when using Ender Box.
-
-**Added**
-- **Fish Traps** (fishtraps-fabric-1.0.7.jar)
-
---------------------------------------------------------------------------------
-
-<h1>v2.6.0</h2>
+- Fixed critical server crash when using Ender Box.
 
 **Added**
 - **Cursed Earth** (cursedearth-1.0.jar)
 - **Ender Box** (ender-box-1.0.0.jar)
 - **Fabric Chunk Pregenerator** (fabric-chunkpregen-0.1.2.jar)
+- **Fish Traps** (fishtraps-fabric-1.0.7.jar)
 - **Lakeside** (Lakeside-1.0.0+1.15.2.jar)
 - **Leaf Me Alone** (leafmealone-1.0.jar)
 - **Mob Grinder** (mobgrinder-1.2.jar)
