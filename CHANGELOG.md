@@ -1,3 +1,12 @@
+<h1>v2.6.2</h2>
+
+**Changed/Fixed**
+- Fixed thunder being WAY louder than it should.
+- Fixed recipe conflict between Blockus and Bamboo Tweaks.
+- Zoom is now bound to C.
+
+--------------------------------------------------------------------------------
+
 <h1>v2.6.1</h2>
 
 **Changed/Fixed**
