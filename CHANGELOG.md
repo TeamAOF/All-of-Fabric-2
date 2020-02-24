@@ -1,3 +1,13 @@
+<h1>v2.6.1</h2>
+
+**Changed/Fixed**
+- Fixed crash when using Ender Box.
+
+**Added**
+- **Fish Traps** (fishtraps-fabric-1.0.7.jar)
+
+--------------------------------------------------------------------------------
+
 <h1>v2.6.0</h2>
 
 **Added**
