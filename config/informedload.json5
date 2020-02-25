@@ -1,0 +1,28 @@
+{ 
+	"logDebugs": false,
+	// Display entrypoint loading
+	"entrypointDisplay": true,
+	// If informed load has conflicts, run this to figure out what entrypoints go to what mods, so you can disable them
+	"printEntrypoints": false,
+	// Entrypoints to exclude from display (Will happen before screen opens)
+	"excludedEntrypoints": [ 
+],
+	// Model add progress bars
+	"splash_splitProgressBars": "SPLIT",
+	// Use 1 to keep the status on the main bar.
+	"splash_maxProgressBarRows": 3,
+	// Keep same progress bars even if splash tewakers are installed.
+	"splash_forceVanillaProgressBars": false,
+	"worldload_loveDisplay": { 
+		// Grayscale-ify the chunkload square
+		"simplifyColors": true,
+		// Bigger is better!
+		"bigChunkViewer": true,
+		// Do you like progress bars!!!
+		"showProgressBar": true
+	},
+	"worldload_hateDisplay": { 
+		// Don't like the new world load thingy?
+		"progressBarDisplay": false
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"quark:chute": {
+		"enabled": true,
+		"registryName": "quark:chute",
+		"name": "Chute"
+	},
+	"quark:metal_buttons": {
+		"enabled": true,
+		"registryName": "quark:metal_buttons",
+		"name": "Metal Buttons"
+	},
+	"quark:obsidian_pressure_plate": {
+		"enabled": true,
+		"registryName": "quark:obsidian_pressure_plate",
+		"name": "Obsidian Pressure Plate"
+	},
+	"quark:chain_linkage_module": {
+		"enabled": true,
+		"registryName": "quark:chain_linkage_module",
+		"name": "Chain Linkage Module"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	/* The modifier for the maximum distance from a beacon to keep charging.
+	   Formula is <beacon level> * <modifier> + 10.
+	   Vanilla range modifier is 10; set to -1 to disable charge requirement.
+	*/
+	"rangeModifier": 10,
+	// Deprecated; use maxPower instead.
+	"maxEnergy": -1,
+	/* The maximum amount of power a shulker charm can store.
+	   Charm gains 20 energy per second when in beacon range,
+	   and loses 20 energy per second when out of it.
+	   Default value 1200 (60 seconds).
+	*/
+	"maxPower": 1200
+}

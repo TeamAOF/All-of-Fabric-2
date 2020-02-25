@@ -1,8 +1,0 @@
-{
-  "config": {
-    "Energy smoking": {
-      "comment": "When enabled machines that try to insert power into a machine with a lower teir will smoke",
-      "value": false
-    }
-  }
-}

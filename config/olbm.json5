@@ -1,0 +1,10 @@
+{
+  "bags": {
+    "olbm:epic_bag": {
+      "loot": "minecraft:chests/simple_dungeon",
+      "color": "#FF7253",
+      "rarity": "epic",
+      "glint": false
+    },
+  }
+}

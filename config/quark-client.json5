@@ -1,0 +1,12 @@
+{
+	"quark:adjustable_chat": {
+		"enabled": true,
+		"registryName": "quark:adjustable_chat",
+		"name": "Makes chat position adjustable"
+	},
+	"quark:pickarang": {
+		"enabled": true,
+		"registryName": "quark:pickarang",
+		"name": "Pickarang"
+	}
+}

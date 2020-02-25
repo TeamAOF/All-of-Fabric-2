@@ -1,0 +1,36 @@
+{
+	/* 
+	   Time between backups in seconds
+	*/
+	"backupInterval": 3600,
+	/* 
+	   Should backups be done even if there is no players?
+	*/
+	"doBackupsOnEmptyServer": false,
+	/* 
+	   Should backups be made on server shutdown
+	*/
+	"shutdownBackup": true,
+	/* 
+	   A path to backup folder
+	*/
+	"path": "backup/",
+	/* 
+	   Maximum number of backups to keep. if 0 then no backup will be deleted
+	*/
+	"backupsToKeep": 0,
+	/* 
+	   Maximum age of backups to keep in seconds.
+	    if 0 then backups will not be deleted based on age 
+	*/
+	"maxAge": 0,
+	/* 
+	   Compression level 
+	   0 - 9
+	*/
+	"compression": 1,
+	/* 
+	   Print info to game out
+	*/
+	"log": true
+}

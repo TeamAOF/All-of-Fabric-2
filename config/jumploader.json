@@ -1,0 +1,72 @@
+{
+  "downloadRequiredFiles": true,
+  "forceFallbackStorage": false,
+  "overrideInferredSide": false,
+  "disableUI": false,
+  "launch": {
+    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient"
+  },
+  "jars": {
+    "minecraft": [
+      {
+        "gameVersion": "1.15.2",
+        "downloadType": "client"
+      }
+    ],
+    "maven": [
+      {
+        "mavenPath": "net.fabricmc:fabric-loader:0.7.8+build.184",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "net.fabricmc:intermediary:1.15.2",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "net.fabricmc:tiny-mappings-parser:0.2.0.11",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "net.fabricmc:sponge-mixin:0.8+build.18",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "net.fabricmc:tiny-remapper:0.2.0.52",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "net.fabricmc:fabric-loader-sat4j:2.3.5.4",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "com.google.jimfs:jimfs:1.1",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "org.ow2.asm:asm:7.3.1",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "org.ow2.asm:asm-analysis:7.3.1",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "org.ow2.asm:asm-commons:7.3.1",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "org.ow2.asm:asm-tree:7.3.1",
+        "repoUrl": "https://maven.fabricmc.net/"
+      },
+      {
+        "mavenPath": "org.ow2.asm:asm-util:7.3.1",
+        "repoUrl": "https://maven.fabricmc.net/"
+      }
+    ]
+  },
+  "autoconfig": {
+    "enable": true,
+    "handler": "fabric",
+    "forceUpdate": false
+  }
+}
