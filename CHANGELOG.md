@@ -1,11 +1,15 @@
 <h1>v2.7.0</h2>
 
+<h2>THIS UPDATE WILL BREAK NETHER, BE SURE TO REGENERATE NETHER DIMENSION WITH THIS UPDATE!</h2>
+<h2>This includes removal of all Better Nether content.</h2>
+
 **Changed/Fixed**
 - Fixed thunder being WAY louder than it should.
 - Fixed recipe conflict between Blockus and Bamboo Tweaks.
 - Zoom is now bound to C.
 
 **Added**
+- **Auto-Run** (autorun-1.15.X-0.1.1.jar)
 - **Classy Creepers** (classy-creepers-1.0.0+1.15.2.jar)
 - **Compressed Blocks** (compressedblocks-0.3.jar)
 - **Dark Loading Screen** (dark-loading-screen-1.0.0.jar)
@@ -14,28 +18,31 @@
 - **FastFurnace** (fastfurnace-1.0.jar)
 - **Forgiving Enchanting Table** (forgivingenchantingtable-1.0.jar)
 - **Get Off My Lawn** (get-off-my-lawn_1.15.2-1.0.0-beta.jar)
+- **Infinity Fix** (infinityfix-1.1.0.jar)
 - **Item Magnets** (itemmagnets-1.0.0.jar)
 - **mob.jar** (mob.jar-1.0.1+1.15.2.jar)
 - **Oysters Cooking** (oysters-cooking-0.2.3b.jar)
 - **Pling** (pling-1.1.0.jar)
-- **Roughly Enough Resources** (rer-1.3.1.jar)
 - **Rotmg Food** (rotmgfood-1.1.0.jar)
 - **Simple Drawers** (simpledrawers-1.1.1.jar)
 - **SleepVote** (sleepvote-1.3-1.15.2.jar)
-- **Spinnery** (spinnery-2.0.18+fabric-1.15.jar)
+- **Spinnery** (spinnery-2.0.19+fabric-1.15.2.jar)
 - **Tiny Fuel** (tinyfuel-fabric-0.2.1.jar)
-- **Luminiferous Uplands** (uplands-2.0.0+mc.1.15.1.jar)
-- **Useless Tutorial** (uselesstutorial-1.0.0.jar)
 - **Wands Mod** (wands-1.0.9.jar)
 
 **Removed**
 - **Better Nether**
+- **Bow Infinity Fix** (Replaced by Infinity Fix)
 - **LambdaControls**
 - **MAmbience**
+- **netherHigher**
+- **Nice to Have**
 
 **Updated**
 - **SuperAxes** ([1.15.2] SuperAxes-1.0.4.jar -> [1.15.2] SuperAxes-1.0.5.jar)
 - **Adabranium Mod** (adabraniummod-1.0.1-1.15.2.jar -> adabraniummod-1.1.0-1.15.2.jar)
+- **Bamboo Tweaks** (bambootweaks-1.15.2-1.1.3.jar -> bambootweaks-1.1.4+fabric-1.15.2.jar)
+- **Blockus** (blockus-1.3.2.jar -> blockus-1.4.1-1.15.2.jar)
 - **Cloth Config v2** (config-2-2.10.jar -> config-2-2.11.2.jar)
 - **Creeper Spores** (creeper-spores-1.3.5.jar -> creeper-spores-1.3.6.jar)
 - **Dynamic FPS** (dynamic-fps-1.1.0.jar -> dynamic-fps-1.1.1.jar)
@@ -45,8 +52,9 @@
 - **Fancy Fountain Passage** (fancyfountainpassage-1.3.1.jar -> fancyfountainpassage-2.0.0.jar)
 - **Improved Stations** (improved-stations-1.2.4.jar -> improved-stations-1.2.5.jar)
 - **Iron Barrels 2** (ironbarrels-2.2.1.jar -> ironbarrels-2.3.0.jar)
+- **Light Overlay** (LightOverlay-4.2.jar -> LightOverlay-4.3.jar)
 - **Linked Storage** (linkedstorage-1.1.1.jar -> linkedstorage-1.1.2.jar)
-- **Lithium** (lithium-mc1.15.2-fabric-0.3.2.jar -> lithium-mc1.15.2-fabric-0.4.5-mod.jar)
+- **Lithium** (lithium-mc1.15.2-fabric-0.3.2.jar -> lithium-mc1.15.2-fabric-0.4.6-mod.jar)
 - **MaLiLib** (malilib-fabric-1.15.2-0.10.0-dev.20+arne.2.jar -> malilib-fabric-1.15.2-0.10.0-dev.20+arne.4.jar)
 - **Materialisation** (Materialisation-2.2.1.jar -> Materialisation-2.4.1.jar)
 - **Mod Menu** (modmenu-1.10.1+build.30.jar -> modmenu-1.10.2+build.32.jar)
@@ -61,7 +69,7 @@
 - **Minecraft Skin Change Mod** (Skin Swapper v1.0.2 1.15.2.jar -> Skin Swapper 1.15.2.jar)
 - **Tech Reborn** (TechReborn-1.15-3.3.4+build.189.jar -> TechReborn-1.15-3.3.5+build.196.jar)
 - **Textile Backup** (textile_backup-1.0.2-1.15.2.jar -> textile_backup-1.0.3-1.15.jar)
-- **Towelette** (Towelette-3.1.0+1.15.2.jar -> Towelette-3.1.3+20w11a.jar)
+- **Towelette** (Towelette-3.1.0+1.15.2.jar -> Towelette-3.1.4+20w11a.jar)
 - **Traverse** (traverse-2.1.9+build.17.jar -> traverse-2.1.11+build.23.jar)
 - **Yet Another Gravestone Mod** (yet-another-gravestone-mod-1.2.1.jar -> yet-another-gravestone-mod-1.2.2.jar)
 --------------------------------------------------------------------------------
