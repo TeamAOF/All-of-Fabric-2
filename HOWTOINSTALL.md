@@ -11,6 +11,6 @@ __<h2>MultiMC</h2>__
 __<h2>GDLauncher</h2>__
 
 1. Download GDLauncher at: https://gdevs.io/
-2. Go to "Modpacks" & search after "All of Fabric 2"
+2. Go to "Modpacks" & search for "All of Fabric 2"
 3. Press Download.
 4. Launch!
