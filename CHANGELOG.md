@@ -1,4 +1,20 @@
-<h1>v2.7.0</h2>
+<h1>Known Issues</h2>
+
+- Crash when opening a Shest container, bug with Spinnery.
+- The Hallow causing biome spots in Overworld.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+  
+<h1>2.7.1</h2>
+
+**Removed**
+- **Elytra Swap**
+- **Sit**
+
+--------------------------------------------------------------------------------
+
+<h1>2.7.0</h2>
 
 <h2>THIS UPDATE WILL BREAK NETHER, BE SURE TO REGENERATE NETHER DIMENSION WITH THIS UPDATE!</h2>
 <h2>This includes removal of all Better Nether content.</h2>
@@ -74,7 +90,7 @@
 - **Yet Another Gravestone Mod** (yet-another-gravestone-mod-1.2.1.jar -> yet-another-gravestone-mod-1.2.2.jar)
 --------------------------------------------------------------------------------
 
-<h1>v2.6.1</h2>
+<h1>2.6.1</h2>
 
 **Changed/Fixed**
 - Fixed critical server crash when using Ender Box.
@@ -84,7 +100,7 @@
 
 --------------------------------------------------------------------------------
 
-<h1>v2.6.0</h2>
+<h1>2.6.0</h2>
 
 **Added**
 - **Cursed Earth** (cursedearth-1.0.jar)
@@ -118,7 +134,7 @@
 
 --------------------------------------------------------------------------------
 
-<h1>v2.5.4</h2>
+<h1>2.5.4</h2>
 
 **Changed/Fixed**
 - Fixed AWTColor crash on Mac.
@@ -136,7 +152,7 @@
 
 --------------------------------------------------------------------------------
 
-<h1>v2.5.3</h2>
+<h1>2.5.3</h2>
 
 **Changed/Fixed**
 - Window Title now says All of Fabric 2 instead of AOF 2.
@@ -161,7 +177,7 @@
 - **Strong and Fair Anvils** (strongandfairanvils-0.3.0.jar -> strongandfairanvils-0.3.0+1.15.jar)
 
 --------------------------------------------------------------------------------
-<h1>v2.5.2</h2>
+<h1>2.5.2</h2>
 
 **Changed/Fixed**
 - Fixed Filtering bug.
@@ -191,7 +207,7 @@
 - **Iron Barrels 2** (ironbarrels-2.2.0.jar -> ironbarrels-2.2.1.jar)
 - **Experience Container** (Experience-Container-1.4.jar -> Experience-Container-1.5.jar)
 --------------------------------------------------------------------------------
-<h1>v2.5.1</h2>
+<h1>2.5.1</h2>
 
 **Changed/Fixed**
 - Snow everywhere is no longer a thing.
