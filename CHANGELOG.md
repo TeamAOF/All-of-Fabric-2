@@ -1,7 +1,7 @@
 <h1>Known Issues</h2>
 
-- Crash when opening a Shest container, bug with Spinnery.
-- The Hallow causing biome spots in Overworld.
+- Crash when opening a Shest container, bug with Spinnery **(Shest).**
+- The Hallow causing biome spots in Overworld **(The Hallow).**
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
