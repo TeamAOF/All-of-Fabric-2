@@ -7,12 +7,29 @@
 --------------------------------------------------------------------------------
 
   
-<h1>2.7.1</h2>
+<h1>2.8.0</h2>
+
+**Changed/Fixed**
+- Fixed crash when opening Shest.
+- Fixed crash when using crafting table on servers.
+
+**Added**
+- **BootZ** (boot-1.2.0.jar)
+- **Enderlift** (enderlift-1.0.4.jar)
+- **Mo Glass** (Mo-Glass-1.2-MC1.15.2.jar)
+- **YNet** (ynet-0.1.2-1.15.2.jar)
 
 **Removed**
+- **Clear Skies**
 - **Elytra Swap**
 - **Sit**
 
+**Updated**
+- **Adabranium Mod** (adabraniummod-1.1.0-1.15.2.jar -> adabraniummod-1.1.1-1.15.2.jar)
+- **Ok Zoomer** (okzoomer-2.1.2.jar -> okzoomer-2.1.3-1.15.2.jar)
+- **Shest** (shest-1.3.1+fabric-1.15.jar -> shest-1.3.2+fabric-1.15.2.jar)
+- **Simple Drawers** (simpledrawers-1.1.1.jar -> simpledrawers-1.3.0.jar)
+- **Spinnery** (spinnery-2.0.19+fabric-1.15.2.jar -> spinnery-2.0.25+fabric-1.15.2.jar)
 --------------------------------------------------------------------------------
 
 <h1>2.7.0</h2>
