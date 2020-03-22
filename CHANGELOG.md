@@ -2,6 +2,7 @@
 
 - Crash when opening a Shest container, bug with Spinnery **(Shest/Spinnery).**
 - The Hallow causing biome spots in Overworld **(The Hallow).**
+- Thunderstorms spam lightning for some odd reason.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
