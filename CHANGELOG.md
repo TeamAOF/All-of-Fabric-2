@@ -1,35 +1,45 @@
 <h1>Known Issues</h2>
 
-- Crash when opening a Shest container, bug with Spinnery. **(Shest/Spinnery)**
 - The Hallow causing biome spots in Overworld. **(The Hallow)**
 - Thunderstorms spam lightning for some odd reason. **(The Hallow)**
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
   
-<h1>2.8.0 (Not Released)</h2>
+<h1>2.8.0</h2>
 
 **Changed/Fixed**
+- Fixed Linux script not working when installing server files.
 - Fixed crash when opening Shest.
 - Fixed crash when using crafting table on servers.
 
 **Added**
+- **Better Enchanted Books** (better-enchanted-books-1.15.2-1.0.1.jar)
 - **BootZ** (boot-1.2.0.jar)
-- **Enderlift** (enderlift-1.0.4.jar)
+- **Enderlift** (enderlift-1.0.5.jar)
+- **Inmis** (inmis-1.0-SNAPSHOT.jar)
 - **Mo Glass** (Mo-Glass-1.2-MC1.15.2.jar)
-- **YNet** (ynet-0.1.2-1.15.2.jar)
+- **SorceryCraft** (sorcerycraft-1.2.6+1.15.2.jar)
+- **YNet** (ynet-0.1.3-1.15.2.jar)
 
 **Removed**
 - **Clear Skies**
 - **Elytra Swap**
+- **Leaf Me Alone**
 - **Sit**
 
 **Updated**
 - **Adabranium Mod** (adabraniummod-1.1.0-1.15.2.jar -> adabraniummod-1.1.1-1.15.2.jar)
-- **Ok Zoomer** (okzoomer-2.1.2.jar -> okzoomer-2.1.3-1.15.2.jar)
+- **Auto-Run** (autorun-1.15.X-0.1.1.jar -> autorun-1.15.X-0.2.0.jar)
+- **Diggus Maximus** (diggusmaximus-1.2.6.jar -> diggusmaximus-1.2.7.jar)
+- **Health Overlay** (HealthOverlay-1.15-2.2.10.jar -> HealthOverlay-1.15.2-2.3.10.jar)
+- **LibGui** (LibGui-1.6.0.jar -> LibGui-1.8.0+1.15.2.jar)
+- **Linked Storage** (linkedstorage-1.1.2.jar -> linkedstorage-1.2.0.jar)
+- **Ok Zoomer** (okzoomer-2.1.2.jar -> okzoomer-2.1.4-1.15.2.jar)
+- **Quick Shulker** (quickshulker-1.1.2.jar -> quickshulker-1.1.3.jar)
 - **Shest** (shest-1.3.1+fabric-1.15.jar -> shest-1.3.2+fabric-1.15.2.jar)
-- **Simple Drawers** (simpledrawers-1.1.1.jar -> simpledrawers-1.3.0.jar)
 - **Spinnery** (spinnery-2.0.19+fabric-1.15.2.jar -> spinnery-2.0.25+fabric-1.15.2.jar)
+- **Textile Backup** (textile_backup-1.0.3-1.15.jar -> textile_backup-1.1.0-1.15.jar)
 --------------------------------------------------------------------------------
 
 <h1>2.7.0</h2>
