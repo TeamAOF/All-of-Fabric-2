@@ -27,7 +27,6 @@
 - **Horizontal Glass Panes** (horizontal-glass-panes-fabric-1.15.2-1.0.1.jar)
 - **Net Weight** (net-weight-0.1.0-alpha+custom-1.15.jar)
 - **Patchouli** (Patchouli-1.15.2-1.2-27-FABRIC.jar)
-- **Random Teleport-Forge-1.15.2-1.1.0.jar** (Random Teleport-Forge-1.15.2-1.1.0.jar)
 - **RelicCraft** (reliccraft-1.0.10+1.15.2.jar)
 - **Spelunker's Treasures** (spelunkers-1.0.0+beta.1.jar)
 - **TacoCraft** (tacocraft-1.1.0.jar)
