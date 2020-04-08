@@ -1,10 +1,64 @@
-<h1>Known Issues</h2>
+<h1>Known Issues</h1>
 
 - The Hallow causing biome spots in Overworld. **(The Hallow)**
 - Thunderstorms spam lightning for some odd reason. **(The Hallow)**
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
+<h1>2.9.0</h2>
+
+**Changed/Fixed**
+- I would like to welcome all ModFest mods, awesome work!
+- Fixed world corruption with Simple Drawers.
+
+**New**
+- **Arch Creatia** (archcreatia-mod-0.9.2.jar)
+- **Azuma** (azuma-1.2.0.jar)
+- **Campanion** (campanion-1.0.4.jar)
+- **Cave Biomes** (cavebiomes-0.1.1.jar)
+- **Chunk In A Globe** (chunk-in-a-globe-1.15.2-1.0.1.jar)
+- **Clay Bucket** (ClayBucket-1.15.2-fabric-1.0.0.jar)
+- **ClothConfig2-2.0.jar** (ClothConfig2-2.0.jar)
+- **Composing** (composing-1.0.1+1.15.2.jar)
+- **Cornflower** (Cornflower-1.2.1+fabric.1.15.2.jar)
+- **Crimson** (crimson-1.0.3.jar)
+- **Extra Alchemy** (extraalchemy-fabric-1.15-1.0.1.jar)
+- **Funky Forcefields** (funkyforcefields-1.0.0.jar)
+- **Horizontal Glass Panes** (horizontal-glass-panes-fabric-1.15.2-1.0.1.jar)
+- **Net Weight** (net-weight-0.1.0-alpha+custom-1.15.jar)
+- **Patchouli** (Patchouli-1.15.2-1.2-27-FABRIC.jar)
+- **Random Teleport-Forge-1.15.2-1.1.0.jar** (Random Teleport-Forge-1.15.2-1.1.0.jar)
+- **RelicCraft** (reliccraft-1.0.10+1.15.2.jar)
+- **Spelunker's Treasures** (spelunkers-1.0.0+beta.1.jar)
+- **TacoCraft** (tacocraft-1.1.0.jar)
+- **Wither Totems Mod** (Wither-Totems-Mod-0.2.jar)
+
+**Updated**
+- **Adorn** (Adorn-1.8.0+1.15.2.jar -> Adorn-1.8.4+1.15.2.jar)
+- **Cloth Config v2** (config-2-2.11.2.jar -> config-2-2.13.2.jar)
+- **Dark Loading Screen** (dark-loading-screen-1.0.0.jar -> dark-loading-screen-1.2.0.jar)
+- **Diggus Maximus** (diggusmaximus-1.2.7.jar -> diggusmaximus-1.2.8.jar)
+- **DynoCaps** (Dynocaps-1.0.3.jar -> Dynocaps-1.0.4.jar)
+- **ExtraDoors** (extradoors-1.6.0-1.15.jar -> ExtraDoors-1.7.0-1.15.jar)
+- **VoxelMap** (fabricmod_VoxelMap-1.9.14_for_1.15.1.jar -> fabricmod_VoxelMap-1.9.16_for_1.15.2.jar)
+- **Hwyla** (Hwyla-fabric-1.15-pre4-1.9.19-70.jar -> Hwyla-fabric-1.15.2-1.9.21-72.jar)
+- **Inmis** (inmis-1.0-SNAPSHOT.jar -> inmis-2.1.0-SNAPSHOT.jar)
+- **MaLiLib** (malilib-fabric-1.15.2-0.10.0-dev.20+arne.4.jar -> malilib-fabric-1.15.2-0.10.0-dev.20+arne.6.jar)
+- **Mouse Wheelie** (mousewheelie-1.4.0+1.15.2-pre1.jar -> mousewheelie-1.4.5+mc1.15.2-pre1.jar)
+- **Phosphor** (phosphor-mc1.15.2-fabric-0.4.2.jar -> phosphor-fabric-mc1.15.2-0.5.2+build.6.jar)
+- **Reborn Core** (RebornCore-1.15-4.2.4+build.102.jar -> RebornCore-1.15-4.2.5+build.108.jar)
+- **Roughly Enough Items** (RoughlyEnoughItems-3.6.4.jar -> RoughlyEnoughItems-3.6.6.jar)
+- **SheetLib** (sheet-lib-1.4.0+1.15.2.jar -> sheet-lib-1.7.0+1.15.2-fabric.jar)
+- **Simple Drawers** (simpledrawers-1.1.1.jar -> simpledrawers-1.6.0.jar)
+- **SleepVote** (sleepvote-1.3-1.15.2.jar -> sleepvote-1.5+1.15.2.jar)
+- **Smooth Scrolling Everywhere** (SmoothScrollingEverywhere-2.4.jar -> SmoothScrollingEverywhere-2.4.1.jar)
+- **SorceryCraft** (sorcerycraft-1.2.6+1.15.2.jar -> sorcerycraft-1.2.7+1.15.2.jar)
+- **Tech Reborn** (TechReborn-1.15-3.3.5+build.196.jar -> TechReborn-1.15-3.3.7+build.210.jar)
+- **Textile Backup** (textile_backup-1.1.0-1.15.jar -> textile_backup-1.1.1-1.15.jar)
+- **Trinkets** (trinkets-2.4.1.jar -> trinkets-2.4.2.jar)
+- **Vanilla Hammers** (vanilla-hammers_1.15.2-1.7.1.jar -> vanilla-hammers-1.7.2_1.15.2.jar)
+- **YNet** (ynet-0.1.3-1.15.2.jar -> ynet-0.1.6+1.15.2.jar)
+--------------------------------------------------------------------------------  
   
 <h1>2.8.0</h2>
 
