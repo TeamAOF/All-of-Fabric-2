@@ -4,6 +4,18 @@
 - Thunderstorms spam lightning for some odd reason. **(The Hallow)**
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
+<h1>2.9.1</h2>
+
+**Changed/Fixed**
+- Fixed certain craftings crash server.
+- Fixed hoppers not sending content in any way.
+- Fixed Xnet not working at all.
+- Fixed /homes crashing server.
+- Fixed /rtp not behaving like it should.
+- Nerfed Crimson fade a tad.
+- Added Day & Time counter.
+--------------------------------------------------------------------------------  
+
 <h1>2.9.0a</h2>
 
 **Changed/Fixed**
