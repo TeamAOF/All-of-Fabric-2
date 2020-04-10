@@ -16,14 +16,22 @@
 	*/
 	"path": "backup/",
 	/* 
-	   Maximum number of backups to keep. if 0 then no backup will be deleted
+	   Should every world has its won backup folder?
+	*/
+	"perWorldBackup": false,
+	/* 
+	   Maximum number of backups to keep. if 0 then no backup will be deleted based on its amount
 	*/
 	"backupsToKeep": 0,
 	/* 
 	   Maximum age of backups to keep in seconds.
-	    if 0 then backups will not be deleted based on age 
+	    if 0 then backups will not be deleted based on its age 
 	*/
 	"maxAge": 0,
+	/* 
+	   Maximum size of backup folder in kilo bytes. 
+	*/
+	"maxSize": 0,
 	/* 
 	   Compression level 
 	   0 - 9
@@ -32,5 +40,25 @@
 	/* 
 	   Print info to game out
 	*/
-	"log": true
+	"log": true,
+	/* 
+	   Minimal permission level required to run commands
+	*/
+	"permissionLevel": 4,
+	/* 
+	   Player on singleplayer is always allowed to run command. Warning! On lan party everyone will be allowed to run it.
+	*/
+	"alwaysSingleplayerAllowed": true,
+	/* 
+	   Players allowed to run backup commands without sufficient permission level
+	*/
+	"whitelist": [],
+	/* 
+	   Players banned from running backup commands besides their sufficient permission level
+	*/
+	"blacklist": [],
+	/* 
+	   Format of date&time used to name backup files.
+	*/
+	"dateTimeFormat": "dd.MM.yyyy_HH-mm-ss"
 }

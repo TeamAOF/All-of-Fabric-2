@@ -1,15 +1,99 @@
 {
-  "loot": {
-    "enableOverworldLoot": {
-      "comment": "When true TechReborn will add ingots, machine frames and circuits to OverWorld loot chests.",
+  "ore": {
+    "enableLeadOre": {
+      "comment": "Generate Lead Ore in The Overworld.",
       "value": true
     },
+    "enablePyriteOre": {
+      "comment": "Generate Pyrite Ore in The Nether.",
+      "value": true
+    },
+    "enableGalenaOre": {
+      "comment": "Generate Galena Ore in The Overworld.",
+      "value": true
+    },
+    "enableTungstenOre": {
+      "comment": "Generate Tungsten Ore in The End.",
+      "value": true
+    },
+    "enableRubyOre": {
+      "comment": "Generate Ruby Ore in The Overworld.",
+      "value": true
+    },
+    "enableSphaleriteOre": {
+      "comment": "Generate Sphalerite Ore in The Nether.",
+      "value": true
+    },
+    "enableSheldoniteOre": {
+      "comment": "Generate Sheldonite Ore in The End.",
+      "value": true
+    },
+    "enableSapphireOre": {
+      "comment": "Generate Sapphire Ore in The Overworld.",
+      "value": true
+    },
+    "enableSilverOre": {
+      "comment": "Generate Silver Ore in The Overworld.",
+      "value": true
+    },
+    "enableCinnabarOre": {
+      "comment": "Generate Cinnabar Ore in The Nether.",
+      "value": true
+    },
+    "enableTinOre": {
+      "comment": "Generate Tin Ore in The Overworld.",
+      "value": true
+    },
+    "enablePeridotOre": {
+      "comment": "Generate Peridot Ore in The End.",
+      "value": true
+    },
+    "enableBauxiteOre": {
+      "comment": "Generate Bauxite Ore in The Overworld.",
+      "value": true
+    },
+    "enableSodaliteOre": {
+      "comment": "Generate Sodalite Ore in The End.",
+      "value": true
+    },
+    "enableCopperOre": {
+      "comment": "Generate Copper Ore in The Overworld.",
+      "value": true
+    },
+    "enableIridiumOre": {
+      "comment": "Generate Iridium Ore in The Overworld.",
+      "value": true
+    }
+  },
+  "rubber_tree": {
+    "RubberTreeChance": {
+      "comment": "Chance to spawn rubber tree",
+      "value": 0.1
+    },
+    "RubberTreeBaseHeight": {
+      "comment": "Basic height for not-spire part of rubber tree",
+      "value": 6
+    },
+    "RubberTreeCount": {
+      "comment": "Amount of trees to spawn in successful case",
+      "value": 1
+    },
+    "RubberTreeSpireHeight": {
+      "comment": "Height of spire of rubber tree",
+      "value": 3
+    }
+  },
+  "loot": {
     "enableEndLoot": {
       "comment": "When true TechReborn will add ingots, machine frames and circuits to The End loot chests.",
       "value": true
     },
     "enableNetherLoot": {
       "comment": "When true TechReborn will add ingots, machine frames and circuits to Nether loot chests.",
+      "value": true
+    },
+    "enableOverworldLoot": {
+      "comment": "When true TechReborn will add ingots, machine frames and circuits to OverWorld loot chests.",
       "value": true
     }
   }

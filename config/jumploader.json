@@ -15,7 +15,7 @@
     ],
     "maven": [
       {
-        "mavenPath": "net.fabricmc:fabric-loader:0.7.8+build.184",
+        "mavenPath": "net.fabricmc:fabric-loader:0.8.2+build.194",
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
@@ -23,7 +23,7 @@
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
-        "mavenPath": "net.fabricmc:tiny-mappings-parser:0.2.0.11",
+        "mavenPath": "net.fabricmc:tiny-mappings-parser:0.2.2.14",
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
@@ -31,7 +31,7 @@
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
-        "mavenPath": "net.fabricmc:tiny-remapper:0.2.0.52",
+        "mavenPath": "net.fabricmc:tiny-remapper:0.2.2.64",
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
@@ -43,23 +43,23 @@
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
-        "mavenPath": "org.ow2.asm:asm:7.3.1",
+        "mavenPath": "org.ow2.asm:asm:8.0",
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
-        "mavenPath": "org.ow2.asm:asm-analysis:7.3.1",
+        "mavenPath": "org.ow2.asm:asm-analysis:8.0",
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
-        "mavenPath": "org.ow2.asm:asm-commons:7.3.1",
+        "mavenPath": "org.ow2.asm:asm-commons:8.0",
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
-        "mavenPath": "org.ow2.asm:asm-tree:7.3.1",
+        "mavenPath": "org.ow2.asm:asm-tree:8.0",
         "repoUrl": "https://maven.fabricmc.net/"
       },
       {
-        "mavenPath": "org.ow2.asm:asm-util:7.3.1",
+        "mavenPath": "org.ow2.asm:asm-util:8.0",
         "repoUrl": "https://maven.fabricmc.net/"
       }
     ]

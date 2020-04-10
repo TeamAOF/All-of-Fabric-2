@@ -1,8 +1,8 @@
 {
   "power": {
-    "advancedDrillCharge": {
-      "comment": "Energy Capacity for Advanced Drill",
-      "value": 400000
+    "nanoSaberDamage": {
+      "comment": "Damage value for the Nano Saber",
+      "value": 20
     },
     "industrialJackhammerCost": {
       "comment": "Energy Cost for Industrial Jackhammer",
@@ -15,10 +15,6 @@
     "clockingDeviceEnergyUsage": {
       "comment": "Cloacking device energy usesage (FE)",
       "value": 10
-    },
-    "quantumSuitSprintingCost": {
-      "comment": "Quantum Suit Sprinting Cost",
-      "value": 20.0
     },
     "cloakingDeviceCharge": {
       "comment": "Energy Capacity for Clocking Device (FE)",
@@ -40,6 +36,66 @@
       "comment": "Energy Cost for Advanced Drill",
       "value": 100
     },
+    "nanoSaberCharge": {
+      "comment": "Energy Capacity for Nano Saber",
+      "value": 4000000
+    },
+    "quantumSuitBreathingCost": {
+      "comment": "Quantum Suit Breathing Cost",
+      "value": 20.0
+    },
+    "advancedJackhammerCharge": {
+      "comment": "Energy Capacity for Advanced Jackhammer",
+      "value": 400000
+    },
+    "electricTreetapCost": {
+      "comment": "Energy Cost for Electric Treetap",
+      "value": 20
+    },
+    "advancedChainsawCost": {
+      "comment": "Energy Cost for Advanced Chainsaw",
+      "value": 100
+    },
+    "basicChainsawCharge": {
+      "comment": "Energy Capacity for Basic Chainsaw",
+      "value": 40000
+    },
+    "industrialChainsawCharge": {
+      "comment": "Energy Capacity for Industrial Chainsaw",
+      "value": 4000000
+    },
+    "quantumSuitFlyingCost": {
+      "comment": "Quantum Suit Flying Cost",
+      "value": 50.0
+    },
+    "lapotronCrystalMaxCharge": {
+      "comment": "Energy Capacity for Lapotron Crystal",
+      "value": 40000000
+    },
+    "quantumSuitSwimmingCost": {
+      "comment": "Quantum Suit Swimming Cost",
+      "value": 20.0
+    },
+    "rockCutterCharge": {
+      "comment": "Energy Capacity for Rock Cutter (FE)",
+      "value": 400000
+    },
+    "energyCrystalMaxCharge": {
+      "comment": "Energy Capacity for Energy Crystal",
+      "value": 4000000
+    },
+    "omniToolCharge": {
+      "comment": "Energy Capacity for Omni Tool",
+      "value": 4000000
+    },
+    "advancedDrillCharge": {
+      "comment": "Energy Capacity for Advanced Drill",
+      "value": 400000
+    },
+    "quantumSuitSprintingCost": {
+      "comment": "Quantum Suit Sprinting Cost",
+      "value": 20.0
+    },
     "lithiumIonBatteryMaxCharge": {
       "comment": "Energy Capacity for Lithium Ion Battery",
       "value": 100000
@@ -47,10 +103,6 @@
     "advancedChainsawCharge": {
       "comment": "Energy Capacity for Advanced Chainsaw",
       "value": 400000
-    },
-    "nanoSaberCharge": {
-      "comment": "Energy Capacity for Nano Saber",
-      "value": 4000000
     },
     "lapotronPackCharge": {
       "comment": "Energy Capacity for Lapotron Pack",
@@ -76,14 +128,6 @@
       "comment": "Quantum Suit Energy Capacity",
       "value": 4.0E7
     },
-    "quantumSuitBreathingCost": {
-      "comment": "Quantum Suit Breathing Cost",
-      "value": 20.0
-    },
-    "advancedJackhammerCharge": {
-      "comment": "Energy Capacity for Advanced Jackhammer",
-      "value": 400000
-    },
     "rockCutterCost": {
       "comment": "Energy Cost for Rock Cutter (FE)",
       "value": 500
@@ -91,10 +135,6 @@
     "advancedJackhammerCost": {
       "comment": "Energy Cost for Advanced Jackhammer",
       "value": 100
-    },
-    "electricTreetapCost": {
-      "comment": "Energy Cost for Electric Treetap",
-      "value": 20
     },
     "omniToolHitCost": {
       "comment": "Hit Energy Cost for Omni Tool",
@@ -108,14 +148,6 @@
       "comment": "Energy Cost for Basic Chainsaw",
       "value": 50
     },
-    "advancedChainsawCost": {
-      "comment": "Energy Cost for Advanced Chainsaw",
-      "value": 100
-    },
-    "basicChainsawCharge": {
-      "comment": "Energy Capacity for Basic Chainsaw",
-      "value": 40000
-    },
     "basicDrillCost": {
       "comment": "Energy Cost for Basic Drill",
       "value": 50
@@ -124,14 +156,6 @@
       "comment": "Energy Cost for Industrial Drill",
       "value": 250
     },
-    "industrialChainsawCharge": {
-      "comment": "Energy Capacity for Industrial Chainsaw",
-      "value": 4000000
-    },
-    "quantumSuitFlyingCost": {
-      "comment": "Quantum Suit Flying Cost",
-      "value": 50.0
-    },
     "omniToolCost": {
       "comment": "Energy Cost for Omni Tool",
       "value": 100
@@ -139,26 +163,6 @@
     "industrialChainsawCost": {
       "comment": "Energy Cost for Industrial Chainsaw",
       "value": 250
-    },
-    "lapotronCrystalMaxCharge": {
-      "comment": "Energy Capacity for Lapotron Crystal",
-      "value": 40000000
-    },
-    "quantumSuitSwimmingCost": {
-      "comment": "Quantum Suit Swimming Cost",
-      "value": 20.0
-    },
-    "rockCutterCharge": {
-      "comment": "Energy Capacity for Rock Cutter (FE)",
-      "value": 400000
-    },
-    "energyCrystalMaxCharge": {
-      "comment": "Energy Capacity for Energy Crystal",
-      "value": 4000000
-    },
-    "omniToolCharge": {
-      "comment": "Energy Capacity for Omni Tool",
-      "value": 4000000
     },
     "industrialDrillCharge": {
       "comment": "Energy Capacity for Industrial Drill",

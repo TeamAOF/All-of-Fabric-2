@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "isHidden": false,
+  "isKeyHidden": false,
+  "isKeyShowDeathMessage": true,
+  "isDisableAutoJump": true,
+  "isBlockLightShow": true,
+  "isSunLightShow": true,
+  "isHiddenSunLightIfZero": true,
+  "HUDINFOSHOW": 7,
+  "HUDLightSHOW": 3
+}

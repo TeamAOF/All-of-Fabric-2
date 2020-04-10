@@ -20,5 +20,9 @@
 	// Should tool take durability
 	"toolDurability": true,
 	// Should player get exhaustion
-	"playerExhaustion": true
+	"playerExhaustion": true,
+	// Multiply exhaustion when excavating
+	"exhaustionMultiplier": 1.0,
+	// Other items to be considered tools: "minecraft:stick"
+	"tools": []
 }

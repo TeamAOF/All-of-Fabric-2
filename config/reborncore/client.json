@@ -1,5 +1,9 @@
 {
   "config": {
+    "Show stack info": {
+      "comment": "Show additional stack info on HUD, like active, charge, etc.",
+      "value": true
+    },
     "Stack Info Corner": {
       "comment": "Screen corner for HUD, 0 is top left, 1 is top right, 2 is bottom right and 3 is bottom left",
       "value": 0

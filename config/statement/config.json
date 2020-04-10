@@ -1,4 +1,6 @@
 {
+	"customBlockStateDeferral": {},
+	"enableStateDeferralApi": true,
 	"customBlockStateSync": {},
 	"enableIdSyncApi": true
 }

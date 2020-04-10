@@ -46,10 +46,10 @@
 	},
 	"appearance": { 
 		"recipeScreenType": "ORIGINAL",
-		// The ordering of the items on the item panel.
-		"itemListOrdering": "REGISTRY_ASCENDING",
 		// Declares the appearance of REI windows.
 		"darkTheme": true,
+		// The ordering of the items on the item panel.
+		"itemListOrdering": "REGISTRY_ASCENDING",
 		// Declares the position of the search field.
 		"searchFieldLocation": "CENTER",
 		// Declares the position of the item list panel.
@@ -58,7 +58,7 @@
 		"maxRecipePerPage": 3,
 		"clickableRecipeArrows": true,
 		// Declares the appearance of recipe's border.
-		"lightGrayRecipeBorder": false,
+		"recipeBorder": "DEFAULT",
 		// Declares whether REI should append mod names to item stacks.
 		"appendModNames": true,
 		// Declares how the scrollbar in villager screen should act.
@@ -116,5 +116,8 @@
 	"filtering": { 
 		"filteredStacks": [ 
 ]
+	},
+	"experimental": { 
+		"isSubsetsEnabled": false
 	}
 }

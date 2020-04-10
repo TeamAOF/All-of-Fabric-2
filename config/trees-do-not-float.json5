@@ -28,9 +28,9 @@
 	// Consolidate item drops into stacks to prevent lag.
 	"stackDrops": true,
 	// Play particles and sounds? Number is max effects per second. 0-20
-	"effectsPerSecond": 4,
+	"effectsPerSecond": 2,
 	// Max log/leaf blocks to break per tick. 1 - 128
-	"maxBreaksPerTick": 32,
+	"maxBreaksPerTick": 16,
 	// Max percentage of each server tick that can be used by TDNF. 1 - 5
 	"tickBudget": 1,
 	// Max number of active falling block entities. 1 - 64

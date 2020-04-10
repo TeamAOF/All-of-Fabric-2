@@ -1,0 +1,15 @@
+{
+  "removeInventoryPotionShift": true,
+  "learningIncreasesExpOrbValue": true,
+  "potions": {
+    "magnetism": true,
+    "photosynthesis": true,
+    "crumbling": true,
+    "fuse": true,
+    "recall": true,
+    "sails": true,
+    "returning": true,
+    "learning": true,
+    "concentration": true
+  }
+}

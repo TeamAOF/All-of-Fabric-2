@@ -2,7 +2,7 @@
 	// General settings
 	general: {
 		// Enables scrolling of items/stacks.
-		// (WHY WOULD YOU DARE TO TURN THIS OFF?)
+		// (How dare you?)
 		// default: true
 		enable-item-scrolling: true
 		// Set the scroll factor for item scrolling.
@@ -66,9 +66,12 @@
 			// Try to find other food items
 			// default: false
 			food: false
-			// Try to find equal stacks
+			// Try to find equal stacks (nbt data must be equal too)
 			// default: true
 			equal-stacks: true
+			// Try to find equal items (no nbt matching)
+			// default: true
+			equal-items: true
 		}
 	}
 }

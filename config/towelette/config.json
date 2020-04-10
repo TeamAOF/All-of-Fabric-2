@@ -12,6 +12,7 @@
 		"farmland": false,
 		"fire": false,
 		"grass_path": false,
+		"honey_block": false,
 		"leaves": false,
 		"lily_pad": false,
 		"nether_portal": false,

@@ -1,0 +1,28 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "azuma:guidebook": {
+      "viewedEntries": [
+        "azuma:getting_started/mana_beginnings"
+      ],
+      "bookmarks": [],
+      "history": [
+        "azuma:getting_started/mana_beginnings"
+      ],
+      "completedManualQuests": []
+    },
+    "mechanized:mechanized_guide": {
+      "viewedEntries": [
+        "mechanized:fan",
+        "mechanized:alloy_furnace"
+      ],
+      "bookmarks": [],
+      "history": [
+        "mechanized:alloy_furnace",
+        "mechanized:fan"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -1,106 +1,22 @@
 {
-  "greenhouse_controller": {
-    "GreenhouseControllerEnergyPerBonemeal": {
-      "comment": "Greenhouse Controller Energy Per Bonemeal",
-      "value": 50
-    },
-    "GreenhouseControllerMaxEnergy": {
-      "comment": "Greenhouse Controller Max Energy",
-      "value": 1000
-    },
-    "GreenhouseControllerEnergyPerTick": {
-      "comment": "Greenhouse Controller Energy Per Tick",
-      "value": 2
-    },
-    "GreenhouseControllerEnergyPerHarvest": {
-      "comment": "Greenhouse Controller Energy Per Harvest",
-      "value": 100
-    },
-    "GreenhouseControllerMaxInput": {
-      "comment": "Greenhouse Controller Max Input",
-      "value": 32
-    }
-  },
   "lesu": {
     "LesuMaxEnergyPerBlock": {
       "comment": "LESU Max Energy Per Block",
       "value": 1000000
     },
-    "LesuBaseOutput": {
-      "comment": "LESU Base Output",
-      "value": 5
-    },
     "LesuExtraIO": {
       "comment": "LESU Extra I/O Multiplier",
       "value": 8
-    }
-  },
-  "implosion_compressor": {
-    "ImplosionCompressorMaxEnergy": {
-      "comment": "Implosion Compressor Max Energy (Value in EU)",
-      "value": 64000
     },
-    "ImplosionCompressorMaxInput": {
-      "comment": "Implosion Compressor Max Input (Value in EU)",
-      "value": 64
-    }
-  },
-  "industrial_sawmill": {
-    "IndustrialSawmillMaxEnergy": {
-      "comment": "Industrial Sawmill Max Energy (Value in EU)",
-      "value": 10000
-    },
-    "IndustrialSawmillMaxInput": {
-      "comment": "Industrial Sawmill Max Input (Value in EU)",
-      "value": 128
-    }
-  },
-  "centrifuge": {
-    "CentrifugeMaxInput": {
-      "comment": "Centrifuge Max Input (Value in EU)",
-      "value": 32
-    },
-    "CentrifugeMaxEnergy": {
-      "comment": "Centrifuge Max Energy (Value in EU)",
-      "value": 10000
-    }
-  },
-  "matter_fabricator": {
-    "MatterFabricatorMaxEnergy": {
-      "comment": "Matter Fabricator Max Energy (Value in EU)",
-      "value": 10000000
-    },
-    "MatterFabricatorEnergyPerAmp": {
-      "comment": "Matter Fabricator EU per amplifier unit, multiply this with the rate for total EU",
+    "LesuBaseOutput": {
+      "comment": "LESU Base Output",
       "value": 5
-    },
-    "MatterFabricatorFabricationRate": {
-      "comment": "Matter Fabricator Fabrication Rate, amount of amplifier units per UUM",
-      "value": 6000
-    },
-    "MatterFabricatorMaxInput": {
-      "comment": "Matter Fabricator Max Input (Value in EU)",
-      "value": 8192
-    }
-  },
-  "scrapboxinator": {
-    "ScrapboxinatorMaxEnergy": {
-      "comment": "Scrapboxinator Max Energy (Value in EU)",
-      "value": 1000
-    },
-    "ScrapboxinatorMaxInput": {
-      "comment": "Scrapboxinator Max Input (Value in EU)",
-      "value": 32
     }
   },
   "rolling_machine": {
     "RollingMachineMaxEnergy": {
       "comment": "Rolling Machine Max Energy (Value in EU)",
       "value": 10000
-    },
-    "RollingMachineEnergyRunTime": {
-      "comment": "Rolling Machine Run Time",
-      "value": 250
     },
     "RollingMachineEnergyPerTick": {
       "comment": "Rolling Machine Energy Per Tick (Value in EU)",
@@ -109,6 +25,10 @@
     "RollingMachineMaxInput": {
       "comment": "Rolling Machine Max Input (Value in EU)",
       "value": 32
+    },
+    "RollingMachineEnergyRunTime": {
+      "comment": "Rolling Machine Run Time",
+      "value": 250
     }
   },
   "assembling_machine": {
@@ -119,16 +39,6 @@
     "AssemblingMachineMaxInput": {
       "comment": "Assembling Machine Max Input (Value in EU)",
       "value": 128
-    }
-  },
-  "electric_furnace": {
-    "ElectricFurnaceInput": {
-      "comment": "Electric Furnace Max Input (Value in EU)",
-      "value": 32
-    },
-    "ElectricFurnaceMaxEnergy": {
-      "comment": "Electric Furnace Max Energy (Value in EU)",
-      "value": 1000
     }
   },
   "vacuumfreezer": {
@@ -142,10 +52,6 @@
     }
   },
   "storage": {
-    "QuantumTankUnitCapacity": {
-      "comment": "How much liquid a Quantum Tank Unit can take (Value in buckets, 1000 Mb)(Compat: \u003d\u003d MAX_VALUE)",
-      "value": 2147483
-    },
     "AdvancedStorageMaxStorage": {
       "comment": "Maximum amount of items an Advanced Storage Unit can store",
       "value": 44800
@@ -158,14 +64,6 @@
       "comment": "Maximum amount of items a Crude Storage Unit can store",
       "value": 3200
     },
-    "QuantumStorageUnitMaxStorage": {
-      "comment": "Maximum amount of items a Quantum Storage Unit can store (Compat: \u003d\u003d MAX_VALUE)",
-      "value": 2147483647
-    },
-    "AdvancedTankUnitMaxStorage": {
-      "comment": "How much liquid an Advanced Tank Unit can take (Value in buckets, 1000 Mb)",
-      "value": 7000
-    },
     "IndustrialStorageMaxStorage": {
       "comment": "Maximum amount of items an Industrial Storage Unit can store (Compat: \u003e\u003d 32768)",
       "value": 96000
@@ -177,20 +75,36 @@
     "IndustrialTankUnitCapacity": {
       "comment": "How much liquid an Industrial Tank Unit can take (Value in buckets, 1000 Mb)",
       "value": 10000
+    },
+    "QuantumTankUnitCapacity": {
+      "comment": "How much liquid a Quantum Tank Unit can take (Value in buckets, 1000 Mb)(Compat: \u003d\u003d MAX_VALUE)",
+      "value": 2147483
+    },
+    "QuantumStorageUnitMaxStorage": {
+      "comment": "Maximum amount of items a Quantum Storage Unit can store (Compat: \u003d\u003d MAX_VALUE)",
+      "value": 2147483647
+    },
+    "AdvancedTankUnitMaxStorage": {
+      "comment": "How much liquid an Advanced Tank Unit can take (Value in buckets, 1000 Mb)",
+      "value": 7000
     }
   },
-  "charge_bench": {
-    "ChargeBenchMaxEnergy": {
-      "comment": "Charge Bench Max Energy (Value in EU)",
-      "value": 100000000
+  "matter_fabricator": {
+    "MatterFabricatorEnergyPerAmp": {
+      "comment": "Matter Fabricator EU per amplifier unit, multiply this with the rate for total EU",
+      "value": 5
     },
-    "ChargeBenchMaxInput": {
-      "comment": "Charge Bench Max Input (Value in EU)",
-      "value": 512
+    "MatterFabricatorFabricationRate": {
+      "comment": "Matter Fabricator Fabrication Rate, amount of amplifier units per UUM",
+      "value": 6000
     },
-    "ChargeBenchMaxOutput": {
-      "comment": "Charge Bench Max Output (Value in EU)",
-      "value": 512
+    "MatterFabricatorMaxInput": {
+      "comment": "Matter Fabricator Max Input (Value in EU)",
+      "value": 8192
+    },
+    "MatterFabricatorMaxEnergy": {
+      "comment": "Matter Fabricator Max Energy (Value in EU)",
+      "value": 10000000
     }
   },
   "Distillation_tower": {
@@ -201,44 +115,6 @@
     "DistillationTowerMaxInput": {
       "comment": "Distillation Tower Max Input (Value in EU)",
       "value": 128
-    }
-  },
-  "fusion_reactor": {
-    "FusionReactorMaxInput": {
-      "comment": "Fusion Reactor Max Input (Value in EU)",
-      "value": 8192
-    },
-    "FusionReactorMaxCoilSize": {
-      "comment": "Fusion Reactor Max Coil size (Radius)",
-      "value": 50
-    },
-    "FusionReactorMaxEnergy": {
-      "comment": "Fusion Reactor Max Energy (Value in EU)",
-      "value": 100000000
-    },
-    "FusionReactorMaxOutput": {
-      "comment": "Fusion Reactor Max Output (Value in EU)",
-      "value": 1000000
-    }
-  },
-  "grinder": {
-    "GrinderInput": {
-      "comment": "Grinder Max Input (Value in EU)",
-      "value": 32
-    },
-    "GrinderMaxEnergy": {
-      "comment": "Grinder Max Energy (Value in EU)",
-      "value": 1000
-    }
-  },
-  "solid_canning_machine": {
-    "solidCanningMachineMaxEnergy": {
-      "comment": "Solid Canning Machine Max Energy (Value in EU)",
-      "value": 1000
-    },
-    "solidCanningMachineMaxInput": {
-      "comment": "Solid Canning Machine Max Input (Value in EU)",
-      "value": 32
     }
   },
   "compressor": {
@@ -261,14 +137,28 @@
       "value": 256
     }
   },
-  "iron_machine": {
-    "fuel_scale": {
-      "comment": "Multiplier for vanilla furnace item burn time",
-      "value": 1.25
+  "charge_bench": {
+    "ChargeBenchMaxInput": {
+      "comment": "Charge Bench Max Input (Value in EU)",
+      "value": 512
     },
-    "cooking_scale": {
-      "comment": "Multiplier for vanilla furnace item cook time",
-      "value": 1.25
+    "ChargeBenchMaxEnergy": {
+      "comment": "Charge Bench Max Energy (Value in EU)",
+      "value": 100000000
+    },
+    "ChargeBenchMaxOutput": {
+      "comment": "Charge Bench Max Output (Value in EU)",
+      "value": 512
+    }
+  },
+  "electric_furnace": {
+    "ElectricFurnaceMaxEnergy": {
+      "comment": "Electric Furnace Max Energy (Value in EU)",
+      "value": 1000
+    },
+    "ElectricFurnaceInput": {
+      "comment": "Electric Furnace Max Input (Value in EU)",
+      "value": 32
     }
   },
   "player_detector": {
@@ -285,24 +175,46 @@
       "value": 32
     }
   },
-  "alloy_smelter": {
-    "AlloySmelterMaxEnergy": {
-      "comment": "Alloy Smelter Max Energy (Value in EU)",
-      "value": 1000
+  "implosion_compressor": {
+    "ImplosionCompressorMaxInput": {
+      "comment": "Implosion Compressor Max Input (Value in EU)",
+      "value": 64
     },
-    "AlloySmelterMaxInput": {
-      "comment": "Alloy Smelter Max Input (Value in EU)",
-      "value": 32
+    "ImplosionCompressorMaxEnergy": {
+      "comment": "Implosion Compressor Max Energy (Value in EU)",
+      "value": 64000
     }
   },
-  "extractor": {
-    "ExtractorInput": {
-      "comment": "Extractor Max Input (Value in EU)",
-      "value": 32
+  "iron_machine": {
+    "cooking_scale": {
+      "comment": "Multiplier for vanilla furnace item cook time",
+      "value": 1.25
     },
-    "ExtractorMaxEnergy": {
-      "comment": "Extractor Max Energy (Value in EU)",
+    "fuel_scale": {
+      "comment": "Multiplier for vanilla furnace item burn time",
+      "value": 1.25
+    }
+  },
+  "greenhouse_controller": {
+    "GreenhouseControllerMaxEnergy": {
+      "comment": "Greenhouse Controller Max Energy",
       "value": 1000
+    },
+    "GreenhouseControllerEnergyPerTick": {
+      "comment": "Greenhouse Controller Energy Per Tick",
+      "value": 2
+    },
+    "GreenhouseControllerEnergyPerHarvest": {
+      "comment": "Greenhouse Controller Energy Per Harvest",
+      "value": 100
+    },
+    "GreenhouseControllerEnergyPerBonemeal": {
+      "comment": "Greenhouse Controller Energy Per Bonemeal",
+      "value": 50
+    },
+    "GreenhouseControllerMaxInput": {
+      "comment": "Greenhouse Controller Max Input",
+      "value": 32
     }
   },
   "industrial_furnace": {
@@ -323,12 +235,6 @@
     "ChemicalReactorMaxEnergy": {
       "comment": "Chemical Reactor Max Energy (Value in EU)",
       "value": 10000
-    }
-  },
-  "chunk_loader": {
-    "ChunkLoaderMaxRadius": {
-      "comment": "Chunk Loader Max Radius",
-      "value": 5
     }
   },
   "recycler": {
@@ -358,26 +264,20 @@
       "value": 128
     }
   },
-  "autocrafter": {
-    "AutoCrafterInput": {
-      "comment": "AutoCrafting Table Max Input (Value in EU)",
-      "value": 32
-    },
-    "AutoCrafterMaxEnergy": {
-      "comment": "AutoCrafting Table Max Energy (Value in EU)",
-      "value": 10000
-    }
-  },
   "aesu": {
     "AesuMaxEnergy": {
       "comment": "AESU Max Energy",
       "value": 100000000
     }
   },
-  "idsu": {
-    "IdsuMaxEnergy": {
-      "comment": "IDSU Max Energy",
-      "value": 100000000
+  "alloy_smelter": {
+    "AlloySmelterMaxInput": {
+      "comment": "Alloy Smelter Max Input (Value in EU)",
+      "value": 32
+    },
+    "AlloySmelterMaxEnergy": {
+      "comment": "Alloy Smelter Max Energy (Value in EU)",
+      "value": 1000
     }
   },
   "industrial_electrolyzer": {
@@ -388,6 +288,96 @@
     "IndustrialElectrolyzerMaxInput": {
       "comment": "Industrial Electrolyzer Max Input (Value in EU)",
       "value": 128
+    }
+  },
+  "fusion_reactor": {
+    "FusionReactorMaxEnergy": {
+      "comment": "Fusion Reactor Max Energy (Value in EU)",
+      "value": 100000000
+    },
+    "FusionReactorMaxOutput": {
+      "comment": "Fusion Reactor Max Output (Value in EU)",
+      "value": 1000000
+    },
+    "FusionReactorMaxInput": {
+      "comment": "Fusion Reactor Max Input (Value in EU)",
+      "value": 8192
+    },
+    "FusionReactorMaxCoilSize": {
+      "comment": "Fusion Reactor Max Coil size (Radius)",
+      "value": 50
+    }
+  },
+  "centrifuge": {
+    "CentrifugeMaxEnergy": {
+      "comment": "Centrifuge Max Energy (Value in EU)",
+      "value": 10000
+    },
+    "CentrifugeMaxInput": {
+      "comment": "Centrifuge Max Input (Value in EU)",
+      "value": 32
+    }
+  },
+  "industrial_sawmill": {
+    "IndustrialSawmillMaxEnergy": {
+      "comment": "Industrial Sawmill Max Energy (Value in EU)",
+      "value": 10000
+    },
+    "IndustrialSawmillMaxInput": {
+      "comment": "Industrial Sawmill Max Input (Value in EU)",
+      "value": 128
+    }
+  },
+  "scrapboxinator": {
+    "ScrapboxinatorMaxEnergy": {
+      "comment": "Scrapboxinator Max Energy (Value in EU)",
+      "value": 1000
+    },
+    "ScrapboxinatorMaxInput": {
+      "comment": "Scrapboxinator Max Input (Value in EU)",
+      "value": 32
+    }
+  },
+  "solid_canning_machine": {
+    "solidCanningMachineMaxEnergy": {
+      "comment": "Solid Canning Machine Max Energy (Value in EU)",
+      "value": 1000
+    },
+    "solidCanningMachineMaxInput": {
+      "comment": "Solid Canning Machine Max Input (Value in EU)",
+      "value": 32
+    }
+  },
+  "extractor": {
+    "ExtractorInput": {
+      "comment": "Extractor Max Input (Value in EU)",
+      "value": 32
+    },
+    "ExtractorMaxEnergy": {
+      "comment": "Extractor Max Energy (Value in EU)",
+      "value": 1000
+    }
+  },
+  "chunk_loader": {
+    "ChunkLoaderMaxRadius": {
+      "comment": "Chunk Loader Max Radius",
+      "value": 5
+    }
+  },
+  "autocrafter": {
+    "AutoCrafterInput": {
+      "comment": "AutoCrafting Table Max Input (Value in EU)",
+      "value": 32
+    },
+    "AutoCrafterMaxEnergy": {
+      "comment": "AutoCrafting Table Max Energy (Value in EU)",
+      "value": 10000
+    }
+  },
+  "idsu": {
+    "IdsuMaxEnergy": {
+      "comment": "IDSU Max Energy",
+      "value": 100000000
     }
   }
 }
