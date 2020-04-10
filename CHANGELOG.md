@@ -1,7 +1,6 @@
 <h1>Known Issues</h1>
 
 - The Hallow causing biome spots in Overworld. **(The Hallow)**
-- Thunderstorms spam lightning for some odd reason. **(The Hallow)**
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 <h1>2.9.1 (Not Released)</h2>
@@ -13,7 +12,7 @@
 - Fixed Xnet not working at all.
 - Fixed /homes crashing server.
 - Fixed /rtp not behaving like it should.
-- Nerfed Crimson fade a tad.
+- Crimson Fog now renders further away (1 chunk further away to be exact).
 - Added Day & Time counter.
 --------------------------------------------------------------------------------  
 
