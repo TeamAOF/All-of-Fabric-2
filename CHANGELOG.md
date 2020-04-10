@@ -7,13 +7,51 @@
 
 **Changed/Fixed**
 - Fixed Thunderstorms spam lightning.
+- Fixed item with negative durability causing crashes.
 - Fixed certain craftings crash server.
 - Fixed hoppers not sending content in any way.
 - Fixed Xnet not working at all.
 - Fixed /homes crashing server.
 - Fixed /rtp not behaving like it should.
+- Auto Jump off by default folks.
+- New Background (Art by https://www.deviantart.com/neytirix)
 - Crimson Fog now renders further away (1 chunk further away to be exact).
 - Added Day & Time counter.
+
+**New**
+- **GameInfo** (GameInfo-mod-1.3.5 1.15.2.jar)
+- **Pocket Plants** (pocketplants-1.0.2.jar)
+- **Sandwichable** (sandwichable-v1.0.1--1.15.x.jar)
+- **Tenor** (tenor-1.0.3.jar)
+- **TTKB** (ttkb-1.0.0.jar)
+- **YOSBR** (yosbr-0.1.0.jar)
+
+**Removed**
+- **Convenient Things**
+- **FastBench**
+- **FastFurnace**
+- **Funky Forcefields**
+- **Random Teleport**
+- **RelicCraft**
+
+**Updated**
+- **Arch Creatia** (archcreatia-mod-0.9.2.jar -> archcreatia-mod-0.9.3.jar)
+- **Azuma** (azuma-1.2.2-beta_1.15.2.jar -> azuma-1.2.5.jar)
+- **Blockus** (blockus-1.4.1-1.15.2.jar -> blockus-1.5.0-1.15.2.jar)
+- **Bulky Shulkies** (bulkyshulkies-1.0.4.jar -> bulkyshulkies-1.0.6.jar)
+- **Campanion** (campanion-1.0.5.jar -> campanion-1.0.6+custom.jar)
+- **Chunk In A Globe** (chunk-in-a-globe-1.15.2-1.0.1.jar -> chunk-in-a-globe-1.15.2-1.0.2.jar)
+- **Cornflower** (Cornflower-1.2.1+fabric.1.15.2.jar -> Cornflower-1.2.3+fabric.1.15.2.jar)
+- **Crimson** (crimson-1.0.3.jar -> crimson-1.0.4.jar)
+- **DynoCaps** (Dynocaps-1.0.4.jar -> Dynocaps-1.0.5.jar)
+- **Linked Storage** (linkedstorage-1.2.0.jar -> linkedstorage-1.2.1.jar)
+- **Patchouli** (Patchouli-1.15.2-1.2-27-FABRIC.jar -> Patchouli-1.15.2-1.2-31-FABRIC.jar)
+- **Quick Shulker** (quickshulker-1.1.3.jar -> quickshulker-1.1.4.jar)
+- **Roughly Enough Items** (RoughlyEnoughItems-3.6.6.jar -> RoughlyEnoughItems-3.6.7.jar)
+- **TacoCraft** (tacocraft-1.1.0.jar -> tacocraft-1.1.1.jar)
+- **Towelette** (Towelette-3.1.4+20w11a.jar -> Towelette-3.1.6+20w15a.jar)
+- **YNet** (ynet-0.1.6+1.15.2.jar -> ynet-0.1.5+1.15.2.jar)
+
 --------------------------------------------------------------------------------  
 
 <h1>2.9.0a</h2>
