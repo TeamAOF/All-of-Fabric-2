@@ -3,7 +3,7 @@
 - The Hallow causing biome spots in Overworld. **(The Hallow)**
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
-<h1>2.10.0 (Not Released)</h2>
+<h1>2.10.0</h2>
 
 **Changed/Fixed**
 - Fixed Thunderstorms spam lightning.
