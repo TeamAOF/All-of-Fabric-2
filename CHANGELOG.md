@@ -7,6 +7,7 @@
 <h1>2.9.1 (Not Released)</h2>
 
 **Changed/Fixed**
+- Fixed Thunderstorms spam lightning.
 - Fixed certain craftings crash server.
 - Fixed hoppers not sending content in any way.
 - Fixed Xnet not working at all.
