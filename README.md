@@ -6,4 +6,7 @@
 **Where can you find me?**  
 *All of Fabric Discord Server: https://discord.gg/6rkdm48*	
 
+**Curseforge & latest releases:**  
+https://www.curseforge.com/minecraft/modpacks/all-of-fabric-2/
+
 ----------------------------------------------------------------------------------------------------------------------------------------
