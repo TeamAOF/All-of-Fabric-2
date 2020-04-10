@@ -1,9 +1,9 @@
 {
 	"weather": {
 		// Amount the thunder time is divided by. Set to 1 to disable
-		"thunder_modifier": 80,
+		"thunder_modifier": 1,
 		// Make it so there are less clear skies, more rain and thunder
-		"less_clear_skies": true
+		"less_clear_skies": false
 	},
 	"pumpkins_on_mobs": {
 		// Zombies, Skeletons, and Wither Skeletons have a 1/3 chance of spawning with a pumpkin on their head
