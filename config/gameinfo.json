@@ -4,9 +4,9 @@
   "isKeyHidden": false,
   "isKeyShowDeathMessage": true,
   "isDisableAutoJump": true,
-  "isBlockLightShow": true,
-  "isSunLightShow": true,
+  "isBlockLightShow": false,
+  "isSunLightShow": false,
   "isHiddenSunLightIfZero": true,
-  "HUDINFOSHOW": 7,
+  "HUDINFOSHOW": 1,
   "HUDLightSHOW": 3
 }

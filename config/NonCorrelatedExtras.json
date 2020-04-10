@@ -28,8 +28,8 @@
 	*/
 	"polarized_iron_armor_additional_magnet_range": {
 		"FEET": 1,
+		"CHEST": 4,
 		"HEAD": 2,
-		"LEGS": 3,
-		"CHEST": 4
+		"LEGS": 3
 	}
 }
