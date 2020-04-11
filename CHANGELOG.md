@@ -3,6 +3,24 @@
 - The Hallow causing biome spots in Overworld. **(The Hallow)**
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
+<h1>2.10.2</h2>
+
+**Changed/Fixed**
+- Fixed crash when using any kind of modded crops.
+- Fixed crash when using crimson crafting table.
+
+**Removed**
+- **Demeter**
+- **Nomad Books**
+
+**Updated**
+- **Crimson** (crimson-1.0.4.jar -> crimson-1.0.5.jar)
+- **Data Loader** (data-loader-1.1.0+mc1.14.4.jar -> data-loader-2.0.0+mc1.15.2.jar)
+- **Reborn Core** (RebornCore-1.15-4.2.5+build.108.jar -> RebornCore-1.15-4.2.6+build.111.jar)
+- **Tech Reborn** (TechReborn-1.15-3.3.7+build.210.jar -> TechReborn-1.15-3.3.8+build.216.jar)
+
+--------------------------------------------------------------------------------  
+
 <h1>2.10.1</h2>
 
 **Changed/Fixed**
