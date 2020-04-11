@@ -3,6 +3,22 @@
 - The Hallow causing biome spots in Overworld. **(The Hallow)**
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
+<h1>2.10.1</h2>
+
+**Changed/Fixed**
+- Fixed server crash with the Infernal Absorber.
+- Fixed twitch versioning.
+- Fixed huge TPS issue on servers.
+
+**Removed**
+- **Torcherino**
+
+**Updated**
+- **Azuma** (azuma-1.2.5.jar -> azuma-1.2.6-beta_1.15.2 (1).jar)
+- **Composing** (composing-1.0.1+1.15.2.jar -> composing-1.0.2+1.15.2.jar)
+
+--------------------------------------------------------------------------------  
+
 <h1>2.10.0</h2>
 
 **Changed/Fixed**
