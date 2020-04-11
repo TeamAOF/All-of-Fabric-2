@@ -11,7 +11,7 @@
 - Fixed huge TPS issue on servers.
 
 **Removed**
-- **Torcherino**
+- **Torcherino** (It's stupidly overpowered & causes some serious issues on servers).
 
 **Updated**
 - **Azuma** (azuma-1.2.5.jar -> azuma-1.2.6-beta_1.15.2 (1).jar)
