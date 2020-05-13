@@ -1,8 +1,116 @@
 <h1>Known Issues</h1>
 
 - The Hallow causing biome spots in Overworld. **(The Hallow)**
+
 --------------------------------------------------------------------------------
+<h1>3.0.0 (Early Development)</h2>
+
+**Changed/Fixed**
+- Fixed stutters when using buttons in the main menu.
+- New Menu art.
+- Alot of recipe changes to balance gameplay.
+- A ton of new structures & exciting events.
+- 2 New World Types with proper progression (Survival Island & Sky World).
+- New starting inventory including Quest book & other guide books.
+
+**New**
+- **Auto Config v1 Updated** (autoconfig1u-2.1.0.jar)
+- **Beach Slimes** (beach-slimes-2.0.0+mc1.15.2.jar)
+- **YUNG's Better Mineshafts** (bettermineshafts-0.4.1.jar)
+- **CompactStorage** (compact-storage-fabric-4.0.3-1.15.2.jar)
+- **Connected Block Textures** (connected-block-textures-0.1.0.jar)
+- **Extra Shields** (extrashields-0.2.0+1.15.2.jar)
+- **Gravel Ores** (gravel-ores-1.0.1.jar)
+- **Greenstone Circuits** (greenstone-circuits-0.0.2.jar)
+- **JavaDungeons** (javadungeons-1.1.6-1.15.2.jar)
+- **Mo' Structures** (mostructures-0.1.0+mc.1.15.jar)
+- **QuestWeaver** (QuestWeaver-1.15.2-1.0.2.jar)
+- **Roughly Enough Resources** (rer-1.3.2.jar)
+- **Ring Of Attraction** (RingOfAttraction-Fabric_1.15.2-1.0.0.jar)
+- **RiverRedux** (riverredux-0.1.1-1.15.2.jar)
+- **SkyWorld** (skyworld-0.3.0-pre-release.jar)
+- **Survival Island** (survivalisland-0.1.0.jar)
+- **The Veggie Way** (TheVeggieWay_Fabric_1.15.2-1.0.5.jar)
+- **Thresher** (Thresher-1.15-0.1.1.jar)
+- **TreeZ** (treez-1.0.0.jar)
+- **Vanilla Excavators** (vanillaexcavators-1.1.0.jar)
+- **Where Is It** (WhereIsIt-1.15.2-1.4.2.jar)
+- **Wolves With Armor** (wolves-with-armor-1.1.0.jar)
+
+**Removed**
+- **Angel Ring**
+- **BoundingBoxOutlineReloaded**
+- **Bee-in-a-Jar**
+- **Beenfo**
+- **Big Buckets**
+- **Classy Creepers**
+- **ClothConfig2**
+- **Corail Woodcutter**
+- **Enderlift**
+- **Endfestation**
+- **Experience-Container**
+- **ExtraDiscs**
+- **FabriBlocks**
+- **Fancy Fountain Passage**
+- **Fish Traps**
+- **LibGui**
+- **Mob Grinder**
+- **Net Weight**
+- **Right Click Clear**
+- **Simple Quern**
+- **Smith And Fletch**
+- **Smooth Scrolling Everywhere**
+- **The Loved Ones**
+- **Wrench Anything**
+
+**Updated**
+- **Adabranium Mod** (adabraniummod-1.1.1-1.15.2.jar -> adabraniummod-1.1.2-1.15.2.jar)
+- **Azuma** (azuma-1.2.6-beta_1.15.2 (1).jar -> azuma-1.2.6-beta_1.15.2.jar)
+- **Blockus** (blockus-1.5.0-1.15.2.jar -> blockus-1.5.2.1-1.15.2.jar)
+- **Campanion** (campanion-1.0.6+custom.jar -> campanion-1.0.9.jar)
+- **Cave Biomes** (cavebiomes-0.1.1.jar -> cavebiomes-0.2.1-1.15.2.jar)
+- **Cloth Config v2** (config-2-2.13.2.jar -> config-2-2.14.0.jar)
+- **Cotton** (cotton-1.0.2.jar -> cotton-1.0.3.jar)
+- **Creeper Spores** (creeper-spores-1.3.6.jar -> creeper-spores-1.3.7.jar)
+- **Dark Loading Screen** (dark-loading-screen-1.2.0.jar -> dark-loading-screen-1.2.1.jar)
+- **Diggus Maximus** (diggusmaximus-1.2.8.jar -> diggusmaximus-1.2.9.jar)
+- **DynoCaps** (Dynocaps-1.0.5.jar -> Dynocaps-1.0.7.jar)
+- **ExpandedStorage** (expandedstorage-3.8.34+1.15.2.jar -> expandedstorage-5.0.1+1.15.2.jar)
+- **ExtraDoors** (ExtraDoors-1.7.0-1.15.jar -> ExtraDoors-1.8.0-1.15.jar)
+- **Fabric API** (fabric-api-0.5.1+build.294-1.15.jar -> fabric-api-0.10.8+build.310-1.15.jar)
+- **Fabric Diagonal Panes** (fabric-diagonal-panes-0.2.0.jar -> fabric-diagonal-panes-0.2.1.jar)
+- **Fabric Language Kotlin** (fabric-language-kotlin-1.3.61+build.1.jar -> fabric-language-kotlin-1.3.71+build.1.jar)
+- **VoxelMap** (fabricmod_VoxelMap-1.9.16_for_1.15.2.jar -> fabricmod_VoxelMap-1.9.18b_for_1.15.2.jar)
+- **I Am Very Smart** (i-am-very-smart-1.5.0+mc1.14.4.jar -> i-am-very-smart-2.0.0+mc1.15.2.jar)
+- **Inmis** (inmis-2.1.0-SNAPSHOT.jar -> inmis-2.1.1-SNAPSHOT.jar)
+- **Jumploader** (jumploader-1.0.5.jar -> jumploader-1.0.6.jar)
+- **LibCapableData** (libcd-2.3.0+1.15.2.jar -> libcd-2.4.0+1.15.2.jar)
+- **Light Overlay** (LightOverlay-4.3.jar -> LightOverlay-4.6.1.jar)
+- **Linked Storage** (linkedstorage-1.2.1.jar -> linkedstorage-1.3.1.jar)
+- **MaLiLib** (malilib-fabric-1.15.2-0.10.0-dev.20+arne.6.jar -> malilib-fabric-1.15.2-0.10.0-dev.21+arne.2.jar)
+- **Materialisation** (Materialisation-2.4.1.jar -> Materialisation-2.6.jar)
+- **More Totems** (more-totems-mod-2.0.0.jar -> more-totems-mod-2.2.jar)
+- **NonCorrelatedExtras** (NonCorrelatedExtras-0.2.2.jar -> noncorrelatedextras-0.2.4+1.15.2.jar)
+- **Oysters** (oysters-fabric-0.1.4-1.15.1.jar -> oysters-fabric-0.1.5-1.15.2.jar)
+- **Pling** (pling-1.1.0.jar -> pling-1.1.1.jar)
+- **Reborn Core** (RebornCore-1.15-4.2.6+build.111.jar -> RebornCore-1.15-4.2.9+build.115.jar)
+- **Roughly Enough Items** (RoughlyEnoughItems-3.6.7.jar -> RoughlyEnoughItems-3.6.14.jar)
+- **Sandwichable** (sandwichable-v1.0.1--1.15.x.jar -> sandwichable-v1.0.2--1.15.x.jar)
+- **Screenshot to Clipboard** (ScreenshotToClipboardFabric-1.0.4.jar -> ScreenshotToClipboardFabric-1.0.5.jar)
+- **Shest** (shest-1.3.2+fabric-1.15.2.jar -> shest-1.3.4+fabric-1.15.2.jar)
+- **Shulker Box Tootip** (shulkerboxtooltip-1.4.5+1.15.jar -> shulkerboxtooltip-2.0.2+1.15.2.jar)
+- **Simple Drawers** (simpledrawers-1.6.0.jar -> simpledrawers-1.7.2.jar)
+- **SorceryCraft** (sorcerycraft-1.2.7+1.15.2.jar -> sorcerycraft-1.2.8+1.15.2.jar)
+- **Spinnery** (spinnery-2.0.25+fabric-1.15.2.jar -> spinnery-2.0.28+fabric-1.15.2.jar)
+- **TacoCraft** (tacocraft-1.1.1.jar -> tacocraft-1.2.2.jar)
+- **Tech Reborn** (TechReborn-1.15-3.3.8+build.216.jar -> TechReborn-1.15-3.3.11+build.224.jar)
+- **Textile Backup** (textile_backup-1.1.1-1.15.jar -> textile_backup-1.2.0-1.15.jar)
+- **Towelette** (Towelette-3.1.6+20w15a.jar -> Towelette-3.2.0+20w19a.jar)
+- **Vanilla Hammers** (vanilla-hammers-1.7.2_1.15.2.jar -> vanilla-hammers-1.8.0.jar)
+- **YOSBR** (yosbr-0.1.0.jar -> yosbr-0.1.1.jar)
+
 --------------------------------------------------------------------------------
+
 <h1>2.10.2</h2>
 
 **Changed/Fixed**
