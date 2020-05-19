@@ -39,7 +39,7 @@
 - **TreeZ** (treez-1.0.0.jar)
 - **Vanilla Excavators** (vanillaexcavators-1.1.0.jar)
 - **Where Is It** (WhereIsIt-1.15.2-1.4.2.jar)
-- **Wither Totems [Forge]-0.2.jar** (Wither Totems [Forge]-0.2.jar)
+- **Wither Totems-0.2.jar** (Wither-Totems-Mod-0.2.jar)
 - **Wolves With Armor** (wolves-with-armor-1.1.0.jar)
 
 **Removed**
@@ -73,7 +73,6 @@
 - **Tenor**
 - **The Loved Ones**
 - **Towelette**
-- **Wither Totems Mod**
 - **Wrench Anything**
 
 **Updated**
