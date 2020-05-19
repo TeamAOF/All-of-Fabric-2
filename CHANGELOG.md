@@ -7,7 +7,7 @@
 
 **Changed/Fixed**
 - Fixed memory leaks that could exceed 10GB of RAM.
-- Fixed RAM average being way higher than it should, AOF2 is now using around 2-4gb instead of 5-7gb.
+- Fixed RAM average being way higher than it should, AOF2 is now using around 2-3gb instead of 5-7gb.
 - Fixed stutters when using buttons in the main menu.
 - Added early game Guidance quests.
 - New Menu art.
