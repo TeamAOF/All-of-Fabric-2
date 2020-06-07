@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------------
 <h1>3.0.0 (Alpha 1)</h2>
 
-**Quests are not present on Servers due to a bug, will be in Alpha 2.**
+<h3>DISCLAIMER: Quests are not present on Servers atm due to a bug, will be in Alpha 2.</h3>
 
 **Changed/Fixed**
 - Fixed memory leaks that could exceed 10GB of RAM.
