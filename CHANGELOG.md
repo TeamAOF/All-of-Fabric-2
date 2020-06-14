@@ -29,7 +29,6 @@
 
 **Updated**
 - **Adabranium Mod** (adabraniummod-1.1.2-1.15.2.jar -> adabraniummod-1.1.3-1.15.2.jar)
-- **Azuma** (azuma-1.2.6-beta_1.15.2 (1).jar -> azuma-1.2.6-beta_1.15.2.jar)
 - **Blockus** (blockus-1.5.2.1-1.15.2.jar -> blockus-1.5.3-1.15.2.jar)
 - **Boring Backgrounds** (boringbackgrounds-1.0.1.jar -> boringbackgrounds-2.1.0-1.15.2.jar)
 - **Dark Loading Screen** (dark-loading-screen-1.2.1.jar -> dark-loading-screen-1.2.2.jar)
