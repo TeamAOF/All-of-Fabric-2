@@ -3,7 +3,48 @@
 - The Hallow causing biome spots in Overworld. **(The Hallow)**
 
 --------------------------------------------------------------------------------
-<h1>3.0.0 (Alpha 1)</h2>
+<h1>3.0.0 Beta 1</h2>
+
+**Changed/Fixed**
+- Quests now sync to Server.
+- Redid Not Quite Vanilla chapter (Not fully complete yet).
+- Disabled generation of air structures.
+- Disabled Mouse Wheelie middle mouse feature.
+- Buffed Inmis Backpacks.
+
+**New**
+- **Campanion** (campanion-1.0.11+build.21.jar)
+- **Inventory Sorter** (InventorySorter-1.6.4.jar)
+- **Just Map** (justmap-1.0.73-1.15.2-release.jar)
+- **Winged Mod** (winged-1.15-1.0.jar)
+
+**Removed**
+- **CleanView**
+- **Epicurean**
+- **Ezpas**
+- **Illuminations**
+- **Inventory Profiles**
+- **JavaDungeons**
+- **The Veggie Way**
+
+**Updated**
+- **Adabranium Mod** (adabraniummod-1.1.2-1.15.2.jar -> adabraniummod-1.1.3-1.15.2.jar)
+- **Azuma** (azuma-1.2.6-beta_1.15.2 (1).jar -> azuma-1.2.6-beta_1.15.2.jar)
+- **Blockus** (blockus-1.5.2.1-1.15.2.jar -> blockus-1.5.3-1.15.2.jar)
+- **Boring Backgrounds** (boringbackgrounds-1.0.1.jar -> boringbackgrounds-2.1.0-1.15.2.jar)
+- **Dark Loading Screen** (dark-loading-screen-1.2.1.jar -> dark-loading-screen-1.2.2.jar)
+- **Enchanted ToolTips** (EnchantedToolTips-1.2.4.jar -> EnchantedToolTips-1.3.0.jar)
+- **Extra Alchemy** (extraalchemy-fabric-1.15-1.0.1.jar -> extraalchemy-fabric-1.15-1.0.3.jar)
+- **Fabric API** (fabric-api-0.11.1+build.312-1.15.jar -> fabric-api-0.12.0+build.313-1.15.jar)
+- **Jumploader** (jumploader-1.0.6.jar -> jumploader-1.0.7.jar)
+- **More Totems** (more-totems-mod-2.2.jar -> more-totems-mod-2.4.jar)
+- **Patchouli** (Patchouli-1.15.2-1.2-31-FABRIC.jar -> Patchouli-1.15.2-1.2-34-FABRIC.jar)
+- **Roughly Enough Items** (RoughlyEnoughItems-3.6.17.jar -> RoughlyEnoughItems-3.6.21.jar)
+- **Shulker Box Tootip** (shulkerboxtooltip-2.0.2+1.15.2.jar -> shulkerboxtooltip-2.0.3+1.15.2.jar)
+- **SkyWorld** (skyworld-0.3.1-pre-release.jar -> skyworld-0.4.1-pre-release.jar)
+--------------------------------------------------------------------------------
+
+<h1>3.0.0 Alpha 1</h2>
 
 <h3>DISCLAIMER: Quests are not present on Servers atm due to a bug, will be in Alpha 2.</h3>
 
